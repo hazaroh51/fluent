@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 2
+    "total_sessions": 3
   },
   "sessions": [
     {
@@ -83,6 +83,41 @@
         "first_speaking_session"
       ],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-11-09",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "vocabulary": 0.6
+      },
+      "topics_covered": [
+        "university_admission_vocabulary",
+        "cause_effect_vocabulary",
+        "separable_verbs",
+        "argumentation_vocabulary"
+      ],
+      "breakthroughs": [
+        "Guessed zunehmen and Herausforderung from word parts + context",
+        "Recalled Ursache with a hint (effortful retrieval)"
+      ],
+      "focus_next_session": [
+        "Ursache / Folge production",
+        "Voraussetzung spelling",
+        "Zulassung",
+        "Separable verbs (zunehmen, abnehmen, einschreiben)"
+      ],
+      "notes": "Learner translates full sentences instead of giving the word meaning — remind to write 'Wort = ...' first line. Responds well to morphological hints (heraus + fordern). Daily total today: 80 min.",
+      "achievements_earned": [
+        "first_vocab_session"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -95,6 +130,11 @@
       "date": "2026-11-09",
       "milestone": "First speaking session",
       "session_id": "session-002"
+    },
+    {
+      "date": "2026-11-09",
+      "milestone": "First vocabulary session — 11 academic words added",
+      "session_id": "session-003"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-09",
-    "total_patterns_tracked": 12,
+    "total_patterns_tracked": 16,
     "language": "German"
   },
   "error_patterns": {
@@ -304,6 +304,98 @@
         }
       ],
       "notes": "Also capitalizes 'Die'/'Möchte' mid-sentence."
+    },
+    "vocab_voraussetzung_spelling": {
+      "category": "spelling",
+      "subcategory": "academic_vocabulary",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "die Vorzetzung",
+          "correct": "die Voraussetzung",
+          "context": "Production: koşul, şart",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Missing 'aus', z for s. Fixed on retype."
+    },
+    "vocab_ursache_folge": {
+      "category": "vocabulary",
+      "subcategory": "cause_effect",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(translated sentence but skipped Ursache; could not recall in production without hint)",
+          "correct": "die Ursache = neden; die Folge = sonuç",
+          "context": "Recognition + production",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_zulassung": {
+      "category": "vocabulary",
+      "subcategory": "university_admission",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not know)",
+          "correct": "die Zulassung = kabul",
+          "context": "Recognition",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": ""
+    },
+    "nennen_vs_nehmen": {
+      "category": "vocabulary",
+      "subcategory": "verb_confusion",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "nimmt = adlandırmak?",
+          "correct": "nimmt ← nehmen (almak); nennt ← nennen (adlandırmak)",
+          "context": "zunehmen word",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Also needs separable verb awareness (nimmt ... zu)."
     }
   }
 }

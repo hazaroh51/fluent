@@ -17,8 +17,8 @@
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-09",
   "current_streak_days": 1,
-  "total_sessions": 2,
-  "total_study_minutes": 55,
+  "total_sessions": 3,
+  "total_study_minutes": 80,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -34,9 +34,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 0,
+      "confidence": 18,
       "last_practiced": "2026-11-09",
-      "total_practice_time": 5
+      "total_practice_time": 30
     },
     "reading": {
       "current_level": 0,
@@ -75,6 +75,12 @@
       "name": "First speaking session",
       "earned_date": "2026-11-09",
       "description": "First speaking session"
+    },
+    {
+      "id": "session_session-003_0_first_vocabulary_session_11",
+      "name": "First vocabulary session — 11 academic words added",
+      "earned_date": "2026-11-09",
+      "description": "First vocabulary session — 11 academic words added"
     }
   ],
   "preferences": {
