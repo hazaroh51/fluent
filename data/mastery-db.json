@@ -13,10 +13,12 @@
       "avg_accuracy": 0.2
     },
     "speaking": {
-      "mastery_level": 0,
-      "confidence_score": 0.0,
-      "total_practice_time": 0,
-      "last_practiced": null
+      "mastery_level": 1,
+      "confidence_score": 0.429,
+      "total_practice_time": 30,
+      "last_practiced": "2026-11-09",
+      "practice_count": 7,
+      "avg_accuracy": 0.429
     },
     "vocabulary": {
       "mastery_level": 1,

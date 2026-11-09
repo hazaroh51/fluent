@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-09",
-    "total_patterns_tracked": 6,
+    "total_patterns_tracked": 12,
     "language": "German"
   },
   "error_patterns": {
@@ -10,19 +10,25 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.6,
       "last_seen": "2026-11-09",
       "last_occurred": "2026-11-09",
       "next_review": "2026-11-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "obwohl habe ich wenig Zeit",
           "correct": "obwohl ich wenig Zeit habe",
           "context": "Joining sentences with obwohl",
+          "date": "2026-11-09"
+        },
+        {
+          "incorrect": "weil ich Universitatsstudium beginnen",
+          "correct": "weil ich ein Studium beginnen möchte",
+          "context": "Speaking Q1",
           "date": "2026-11-09"
         }
       ],
@@ -33,14 +39,14 @@
       "subcategory": "punctuation",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-09",
       "last_occurred": "2026-11-09",
       "next_review": "2026-11-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "Deutsch obwohl ich wenig Zeit habe",
@@ -53,9 +59,15 @@
           "correct": "Wenn ich mehr Zeit hätte, würde ich",
           "context": "wenn clause (Konjunktiv II)",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "machen weil",
+          "correct": "machen, weil",
+          "context": "Speaking Q1",
+          "date": "2026-11-09"
         }
       ],
-      "notes": "Missing comma 3 times this session - persistent."
+      "notes": "After Q1 used comma correctly 3 times in a row (weil, wenn, dass)."
     },
     "passiv_partizip_ii": {
       "category": "grammar",
@@ -148,6 +160,150 @@
         }
       ],
       "notes": "New B2/C1 topic. After worked example, solved 'Wegen des Regens' correctly."
+    },
+    "v2_inversion": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "jetzt ich möchte",
+          "correct": "Jetzt möchte ich",
+          "context": "Speaking Q1: plans",
+          "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Zum Beispiel ich finde ... in der Türkei die Preise sind hoch",
+          "correct": "Zum Beispiel finde ich ... in der Türkei sind die Preise hoch",
+          "context": "Speaking Q3c",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Correct with dann/außerdem, fails with jetzt/zum Beispiel/in der Türkei. Fixed on retype."
+    },
+    "komparativ_als": {
+      "category": "grammar",
+      "subcategory": "comparison",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Qualitat als Turkei",
+          "correct": "die Qualität ist besser als in der Türkei",
+          "context": "Speaking Q2",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Fixed immediately in retry."
+    },
+    "country_articles": {
+      "category": "grammar",
+      "subcategory": "articles",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "in den Deutschland",
+          "correct": "in Deutschland / in der Türkei",
+          "context": "Speaking Q2",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": ""
+    },
+    "finden_vs_denken": {
+      "category": "vocabulary",
+      "subcategory": "verb_choice",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "dass ich die Work life Balance sehr nett denke",
+          "correct": "Für mich ist eine gute Work-Life-Balance sehr wichtig / Ich finde ... gut",
+          "context": "Speaking Q3b",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Also used 'nett' for things."
+    },
+    "finden_structure_mix": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ich finde Die Preise günstig sind",
+          "correct": "Ich finde die Preise günstig. / Ich finde, dass die Preise günstig sind.",
+          "context": "Speaking Q3c",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": ""
+    },
+    "noun_capitalization_articles": {
+      "category": "spelling",
+      "subcategory": "capitalization",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ein sprachschule ... prüfung",
+          "correct": "eine Sprachschule ... Prüfung",
+          "context": "Speaking Q1",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Also capitalizes 'Die'/'Möchte' mid-sentence."
     }
   }
 }

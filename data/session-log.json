@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 1
+    "total_sessions": 2
   },
   "sessions": [
     {
@@ -44,6 +44,45 @@
         "first_lesson"
       ],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-11-09",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "/fluent-speaking",
+      "exercises_completed": 7,
+      "accuracy": 0.429,
+      "score_breakdown": {
+        "speaking": 0.429
+      },
+      "topics_covered": [
+        "self_introduction",
+        "study_plans",
+        "germany_vs_turkey",
+        "work_life_balance",
+        "opinions_finden",
+        "komparativ"
+      ],
+      "breakthroughs": [
+        "First self-placed comma before weil — then 3 correct commas in a row",
+        "Wenn-clause with Perfekt + inversion (abgeschlossen habe, möchte ich)",
+        "Außerdem + V2 correct",
+        "Score went 5 → 9 after one correction on Q2"
+      ],
+      "focus_next_session": [
+        "V2 after adverbials (jetzt, zum Beispiel, in der Türkei)",
+        "finden + Akk + Adj vs. finden, dass",
+        "Stay on topic; answer all parts of question with reasons",
+        "Konjunktiv II in hypotheticals (würde am liebsten)"
+      ],
+      "notes": "Speaking (typed) DSH-mündlich prep. Topic: learner plans Sprachschule in Duisburg, then DSH, then BWL; wants to work in Germany. Gives short answers — prompt for Begründung. Spelling: arbaiten, sher, dotless ı. Caps Lock produced 'İ'.",
+      "achievements_earned": [
+        "first_speaking_session"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -51,6 +90,11 @@
       "date": "2026-11-09",
       "milestone": "Completed first lesson",
       "session_id": "session-001"
+    },
+    {
+      "date": "2026-11-09",
+      "milestone": "First speaking session",
+      "session_id": "session-002"
     }
   ]
 }
