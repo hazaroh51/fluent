@@ -2,8 +2,55 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 0
+    "total_sessions": 1
   },
-  "sessions": [],
-  "milestones": []
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-11-09",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 6,
+      "accuracy": 0.167,
+      "score_breakdown": {
+        "writing": 0.2,
+        "vocabulary": 0.0
+      },
+      "topics_covered": [
+        "nebensatz_word_order",
+        "passiv_praesens",
+        "nomen_verb_verbindungen",
+        "konjunktiv_ii",
+        "nominalisierung_wegen_genitiv"
+      ],
+      "breakthroughs": [
+        "Applied verb-final rule in a wenn-clause after learning it in exercise 1",
+        "Correct inversion after subordinate clause (werde ich)",
+        "Solved Nominalisierung (Wegen des Regens) after one worked example"
+      ],
+      "focus_next_session": [
+        "Komma vor Nebensatz (missed 3x)",
+        "Konjunktiv II hätte/wäre/würde",
+        "Passiv werden + Partizip II",
+        "Nominalisierung: wegen/trotz/bei",
+        "Nomen-Verb-Verbindungen"
+      ],
+      "notes": "First session (placement). Learner uses Turkish keyboard: accept ae/ss for ä/ß; ö/ü available. Also watch for dotless ı in 'ich'. Prefers retyping corrections and asks for extra worked examples when stuck - give a parallel example before revealing.",
+      "achievements_earned": [
+        "first_lesson"
+      ],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-11-09",
+      "milestone": "Completed first lesson",
+      "session_id": "session-001"
+    }
+  ]
 }

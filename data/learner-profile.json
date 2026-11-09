@@ -15,15 +15,15 @@
   },
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-09",
-  "current_streak_days": 0,
-  "total_sessions": 0,
-  "total_study_minutes": 0,
+  "current_streak_days": 1,
+  "total_sessions": 1,
+  "total_study_minutes": 25,
   "skills": {
     "writing": {
-      "current_level": 0,
-      "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "current_level": 1,
+      "confidence": 6,
+      "last_practiced": "2026-11-09",
+      "total_practice_time": 20
     },
     "speaking": {
       "current_level": 0,
@@ -32,10 +32,10 @@
       "total_practice_time": 0
     },
     "vocabulary": {
-      "current_level": 0,
+      "current_level": 1,
       "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "last_practiced": "2026-11-09",
+      "total_practice_time": 5
     },
     "reading": {
       "current_level": 0,
@@ -62,6 +62,12 @@
       "name": "Getting Started",
       "earned_date": "2026-11-09",
       "description": "Created your learning profile"
+    },
+    {
+      "id": "session_session-001_0_completed_first_lesson",
+      "name": "Completed first lesson",
+      "earned_date": "2026-11-09",
+      "description": "Completed first lesson"
     }
   ],
   "preferences": {
@@ -74,6 +80,8 @@
     "feedback_style": "immediate_with_explanation",
     "gamification_enabled": true,
     "use_emojis": true,
-    "explanation_language": "Turkish"
+    "explanation_language": "Turkish",
+    "keyboard": "turkish",
+    "keyboard_notes": "No ä/ß on keyboard: accept 'ae' for ä and 'ss' for ß (ö/ü available). Don't count as spelling errors; ask only when meaning changes (hatte/hätte). Watch dotless ı in 'ich'."
   }
 }

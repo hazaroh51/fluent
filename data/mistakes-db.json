@@ -1,8 +1,153 @@
 {
   "metadata": {
     "last_updated": "2026-11-09",
-    "total_patterns_tracked": 0,
+    "total_patterns_tracked": 6,
     "language": "German"
   },
-  "error_patterns": {}
+  "error_patterns": {
+    "nebensatz_verb_final": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "obwohl habe ich wenig Zeit",
+          "correct": "obwohl ich wenig Zeit habe",
+          "context": "Joining sentences with obwohl",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Fixed on retype immediately; later applied correctly in wenn-clause."
+    },
+    "comma_before_nebensatz": {
+      "category": "grammar",
+      "subcategory": "punctuation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "Deutsch obwohl ich wenig Zeit habe",
+          "correct": "Deutsch, obwohl ich wenig Zeit habe",
+          "context": "obwohl clause",
+          "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Wenn ich mehr Zeit habe werde ich",
+          "correct": "Wenn ich mehr Zeit hätte, würde ich",
+          "context": "wenn clause (Konjunktiv II)",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Missing comma 3 times this session - persistent."
+    },
+    "passiv_partizip_ii": {
+      "category": "grammar",
+      "subcategory": "passive_voice",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Die Prüfung wird schreiben",
+          "correct": "Die Prüfung wird geschrieben",
+          "context": "Aktiv -> Passiv Präsens",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Confused werden+Infinitiv (Futur) with werden+Partizip II (Passiv). Fixed on retype."
+    },
+    "nvv_entscheidung_treffen": {
+      "category": "vocabulary",
+      "subcategory": "nomen_verb_verbindungen",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not know)",
+          "correct": "eine Entscheidung treffen",
+          "context": "Cloze: Die Regierung muss eine Entscheidung ___",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": ""
+    },
+    "konjunktiv_ii_haette_wuerde": {
+      "category": "grammar",
+      "subcategory": "konjunktiv_ii",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.7,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Wenn ich mehr Zeit habe, werde ich",
+          "correct": "Wenn ich mehr Zeit hätte, würde ich",
+          "context": "Unreal condition",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "Used Indikativ; retype gave 'hatte' (Präteritum) instead of 'hätte' - keyboard has no ä, accept 'ae'."
+    },
+    "nominalisierung_wegen_genitiv": {
+      "category": "grammar",
+      "subcategory": "nominalisierung",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.8,
+      "last_seen": "2026-11-09",
+      "last_occurred": "2026-11-09",
+      "next_review": "2026-11-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not know)",
+          "correct": "Wegen des Anstiegs der Preise",
+          "context": "weil-Satz -> wegen + Genitiv",
+          "date": "2026-11-09"
+        }
+      ],
+      "notes": "New B2/C1 topic. After worked example, solved 'Wegen des Regens' correctly."
+    }
+  }
 }

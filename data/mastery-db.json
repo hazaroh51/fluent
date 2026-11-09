@@ -5,10 +5,12 @@
   },
   "skills": {
     "writing": {
-      "mastery_level": 0,
-      "confidence_score": 0.0,
-      "total_practice_time": 0,
-      "last_practiced": null
+      "mastery_level": 1,
+      "confidence_score": 0.2,
+      "total_practice_time": 20,
+      "last_practiced": "2026-11-09",
+      "practice_count": 5,
+      "avg_accuracy": 0.2
     },
     "speaking": {
       "mastery_level": 0,
@@ -17,10 +19,12 @@
       "last_practiced": null
     },
     "vocabulary": {
-      "mastery_level": 0,
+      "mastery_level": 1,
       "confidence_score": 0.0,
-      "total_practice_time": 0,
-      "last_practiced": null
+      "total_practice_time": 5,
+      "last_practiced": "2026-11-09",
+      "practice_count": 1,
+      "avg_accuracy": 0.0
     },
     "reading": {
       "mastery_level": 0,
