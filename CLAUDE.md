@@ -124,3 +124,4 @@ The learner studies from both phone and PC, so `/data/*.json` and `/results/*.md
 
 - **Session start:** run `git fetch origin main` and `git merge origin/main` (or `git pull origin main`) so you load the latest progress before reading the databases.
 - **Session end:** after the databases are updated and the results file is written, commit `data/` and `results/` (e.g. `git add data results && git commit -m "session: <date> <skill>"`) and push them to `main` (`git push origin HEAD:main`). If the push is rejected, pull/merge `origin/main` first, then push again.
+- **Pending activity:** if `results/PENDING.md` exists, an activity was paused on another device or day. Mention it in the greeting and offer to resume it (after due reviews), following the instructions inside the file. Delete the file once the activity is finished.
