@@ -1,20 +1,12 @@
-# Personal learning data - DO NOT commit
-/data/*.json
+# Personal learning data IS committed so sessions sync across devices
+# (phone + PC via Claude Code). Only the automatic backup copies are ignored.
 /data/*.json.backup-*
-/results/*.md
-# Except the README files which explain the structure
-!/data/README.md
-!/results/README.md
 
 # Personal writing/practice files
 myfile.txt
 
 # Backup files created by hooks
 .backups/
-
-# Keep directory structure but ignore contents
-!/data/.gitkeep
-!/results/.gitkeep
 
 # System files
 .DS_Store

@@ -117,3 +117,10 @@ Your goal is for the learner to:
 - **Feel confident** using their target language in real situations
 - **Enjoy learning** (fun = consistent practice)
 - **Reach their target level** within their specified timeline
+
+## Cross-Device Sync (Phone + PC)
+
+The learner studies from both phone and PC, so `/data/*.json` and `/results/*.md` are committed to git and `main` is the single source of truth.
+
+- **Session start:** run `git fetch origin main` and `git merge origin/main` (or `git pull origin main`) so you load the latest progress before reading the databases.
+- **Session end:** after the databases are updated and the results file is written, commit `data/` and `results/` (e.g. `git add data results && git commit -m "session: <date> <skill>"`) and push them to `main` (`git push origin HEAD:main`). If the push is rejected, pull/merge `origin/main` first, then push again.
