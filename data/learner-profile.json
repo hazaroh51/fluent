@@ -1,0 +1,79 @@
+{
+  "learner": {
+    "name": "Hazar",
+    "native_language": "Turkish",
+    "other_languages": [],
+    "target_language": "German",
+    "current_level": "B1",
+    "target_level": "C1",
+    "daily_goal_minutes": 60,
+    "learning_style": "balanced",
+    "motivation": "exam",
+    "exam": "DSH",
+    "timeline_months": 8,
+    "target_date": "2027-07-09"
+  },
+  "profile_created": "2026-11-09",
+  "last_updated": "2026-11-09",
+  "current_streak_days": 0,
+  "total_sessions": 0,
+  "total_study_minutes": 0,
+  "skills": {
+    "writing": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "speaking": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "vocabulary": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "reading": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "listening": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    }
+  },
+  "focus_areas": [
+    "DSH exam preparation",
+    "academic writing",
+    "reading comprehension",
+    "grammar structures (Wissenschaftssprache)"
+  ],
+  "achievements": [
+    {
+      "id": "profile_created",
+      "name": "Getting Started",
+      "earned_date": "2026-11-09",
+      "description": "Created your learning profile"
+    }
+  ],
+  "preferences": {
+    "difficulty_preference": "adaptive",
+    "exercise_types_preferred": [
+      "conversation",
+      "writing",
+      "quick_drills"
+    ],
+    "feedback_style": "immediate_with_explanation",
+    "gamification_enabled": true,
+    "use_emojis": true,
+    "explanation_language": "Turkish"
+  }
+}
