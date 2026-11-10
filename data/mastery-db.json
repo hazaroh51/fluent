@@ -29,10 +29,12 @@
       "avg_accuracy": 0.348
     },
     "reading": {
-      "mastery_level": 0,
-      "confidence_score": 0.0,
-      "total_practice_time": 0,
-      "last_practiced": null
+      "mastery_level": 1,
+      "confidence_score": 0.857,
+      "total_practice_time": 20,
+      "last_practiced": "2026-11-10",
+      "practice_count": 7,
+      "avg_accuracy": 0.857
     },
     "listening": {
       "mastery_level": 0,

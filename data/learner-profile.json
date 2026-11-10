@@ -17,8 +17,8 @@
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-10",
   "current_streak_days": 2,
-  "total_sessions": 4,
-  "total_study_minutes": 110,
+  "total_sessions": 5,
+  "total_study_minutes": 130,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -39,10 +39,10 @@
       "total_practice_time": 43
     },
     "reading": {
-      "current_level": 0,
-      "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "current_level": 1,
+      "confidence": 26,
+      "last_practiced": "2026-11-10",
+      "total_practice_time": 20
     },
     "listening": {
       "current_level": 0,
@@ -87,6 +87,12 @@
       "name": "First spaced-repetition review completed",
       "earned_date": "2026-11-10",
       "description": "First spaced-repetition review completed"
+    },
+    {
+      "id": "session_session-005_0_first_reading_session_6_7_qu",
+      "name": "First reading session — 6/7 questions",
+      "earned_date": "2026-11-10",
+      "description": "First reading session — 6/7 questions"
     }
   ],
   "preferences": {

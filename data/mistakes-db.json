@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-10",
-    "total_patterns_tracked": 21,
+    "total_patterns_tracked": 23,
     "language": "German"
   },
   "error_patterns": {
@@ -537,6 +537,52 @@
           "incorrect": "Die Regal wird erkleart",
           "correct": "Die Regel wird erklärt",
           "context": "Review card 2",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "reading_inference": {
+      "category": "reading",
+      "subcategory": "inference",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(could not answer without scaffolding)",
+          "correct": "Man lernt nicht nur die Sprache besser, sondern auch neue Freunde kennen → weniger einsam",
+          "context": "Q6 inference (question was slightly ambiguous — tutor's fault)",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": "Solved after step-by-step Turkish scaffolding."
+    },
+    "reading_justify_answer": {
+      "category": "reading",
+      "subcategory": "exam_strategy",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "falsch (no evidence cited)",
+          "correct": "falsch — 'Erst wenn man diese Prüfung bestanden hat…'",
+          "context": "Q4 true/false",
           "date": "2026-11-10"
         }
       ],

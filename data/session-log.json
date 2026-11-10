@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 4
+    "total_sessions": 5
   },
   "sessions": [
     {
@@ -166,6 +166,42 @@
         "streak_2_days"
       ],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-005",
+      "date": "2026-11-10",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "reading"
+      ],
+      "command_used": "/fluent-reading",
+      "exercises_completed": 7,
+      "accuracy": 0.857,
+      "score_breakdown": {
+        "reading": 0.857
+      },
+      "topics_covered": [
+        "reading_comprehension",
+        "international_students",
+        "main_idea",
+        "true_false",
+        "inference",
+        "connectors"
+      ],
+      "breakthroughs": [
+        "Main idea, details and vocab-in-context all correct first try (Q1–Q3, Q5)",
+        "Spotted Voraussetzung, Zulassung, Herausforderungen, nimmt zu in authentic context"
+      ],
+      "focus_next_session": [
+        "Cite evidence from the text for true/false",
+        "Inference questions with scaffolding",
+        "Recognize learned words in context (Grund, bestanden, Mieten)"
+      ],
+      "notes": "Resumed paused reading from previous day (PENDING.md). Strong on literal comprehension (B1+), weaker on inference. Text level fit well.",
+      "achievements_earned": [
+        "first_reading_session"
+      ],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -188,6 +224,11 @@
       "date": "2026-11-10",
       "milestone": "First spaced-repetition review completed",
       "session_id": "session-004"
+    },
+    {
+      "date": "2026-11-10",
+      "milestone": "First reading session — 6/7 questions",
+      "session_id": "session-005"
     }
   ]
 }
