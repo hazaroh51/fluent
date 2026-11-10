@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-09",
-    "total_patterns_tracked": 16,
+    "last_updated": "2026-11-10",
+    "total_patterns_tracked": 21,
     "language": "German"
   },
   "error_patterns": {
@@ -120,60 +120,72 @@
       "subcategory": "konjunktiv_ii",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.7,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "Wenn ich mehr Zeit habe, werde ich",
           "correct": "Wenn ich mehr Zeit hätte, würde ich",
           "context": "Unreal condition",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Wenn ich reich bin, würde ich",
+          "correct": "Wenn ich reich wäre, würde ich",
+          "context": "Review card 3",
+          "date": "2026-11-10"
         }
       ],
-      "notes": "Used Indikativ; retype gave 'hatte' (Präteritum) instead of 'hätte' - keyboard has no ä, accept 'ae'."
+      "notes": "würde OK; sein→wäre missing. Card 19 hätte/würde correct."
     },
     "nominalisierung_wegen_genitiv": {
       "category": "grammar",
       "subcategory": "nominalisierung",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.8,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "(did not know)",
           "correct": "Wegen des Anstiegs der Preise",
           "context": "weil-Satz -> wegen + Genitiv",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Wegen es eines Streikes gibt",
+          "correct": "Wegen des Streiks",
+          "context": "Review card 10",
+          "date": "2026-11-10"
         }
       ],
-      "notes": "New B2/C1 topic. After worked example, solved 'Wegen des Regens' correctly."
+      "notes": "Genitive correct, but kept the verb (es ... gibt)."
     },
     "v2_inversion": {
       "category": "grammar",
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "jetzt ich möchte",
@@ -186,9 +198,15 @@
           "correct": "Zum Beispiel finde ich ... in der Türkei sind die Preise hoch",
           "context": "Speaking Q3c",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Jetzt ich lerne Deutsch in Duisburg.",
+          "correct": "Jetzt lerne ich Deutsch in Duisburg.",
+          "context": "Review card 4",
+          "date": "2026-11-10"
         }
       ],
-      "notes": "Correct with dann/außerdem, fails with jetzt/zum Beispiel/in der Türkei. Fixed on retype."
+      "notes": "Correct later on card 12 (Morgen schreibe ich) and card 20 (Heute fahren)."
     },
     "komparativ_als": {
       "category": "grammar",
@@ -310,20 +328,26 @@
       "subcategory": "academic_vocabulary",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "die Vorzetzung",
           "correct": "die Voraussetzung",
           "context": "Production: koşul, şart",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "die Vorzetzung",
+          "correct": "die Voraussetzung",
+          "context": "Review card 15 (2nd time same error)",
+          "date": "2026-11-10"
         }
       ],
       "notes": "Missing 'aus', z for s. Fixed on retype."
@@ -333,20 +357,26 @@
       "subcategory": "cause_effect",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "(translated sentence but skipped Ursache; could not recall in production without hint)",
           "correct": "die Ursache = neden; die Folge = sonuç",
           "context": "Recognition + production",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Ursache (for result slot)",
+          "correct": "Folge",
+          "context": "Cloze: Viele fahren Auto. Die ___ ist, dass die Luft schlecht ist.",
+          "date": "2026-11-10"
         }
       ],
       "notes": ""
@@ -396,6 +426,121 @@
         }
       ],
       "notes": "Also needs separable verb awareness (nimmt ... zu)."
+    },
+    "vocab_bestehen_pruefung": {
+      "category": "vocabulary",
+      "subcategory": "false_friend_similar",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "eine Prüfung bestellen",
+          "correct": "eine Prüfung bestehen",
+          "context": "Review card 16 (with hint)",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "subject_verb_agreement": {
+      "category": "grammar",
+      "subcategory": "verb_conjugation",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
+          "correct": "Die Zahl ... nimmt zu / Ich nehme den Bus",
+          "context": "Review cards 14 + 18",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": "Leaves nehmen in infinitive form; singular subject 'die Zahl der ...'."
+    },
+    "es_gibt_akkusativ": {
+      "category": "grammar",
+      "subcategory": "es_gibt",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "weil der Streik gibt",
+          "correct": "weil es einen Streik gibt",
+          "context": "Review card 20",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "komparativ_umlaut": {
+      "category": "spelling",
+      "subcategory": "comparison",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Grosser",
+          "correct": "größer",
+          "context": "Review card 7",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "regel_vs_regal": {
+      "category": "spelling",
+      "subcategory": "similar_words",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Die Regal wird erkleart",
+          "correct": "Die Regel wird erklärt",
+          "context": "Review card 2",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
     }
   }
 }

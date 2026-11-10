@@ -1,50 +1,58 @@
 {
   "metadata": {
     "algorithm": "SM-2",
-    "last_updated": "2026-11-09",
-    "total_items_tracked": 37,
+    "last_updated": "2026-11-10",
+    "total_items_tracked": 44,
     "language": "German"
   },
   "review_queue": {
-    "today": [],
-    "tomorrow": [
-      "nvv_entscheidung_treffen",
+    "today": [
       "nvv_frage_stellen",
-      "nvv_wert_legen",
       "nvv_einfluss_nehmen",
       "vocab_der_anstieg",
       "vocab_die_verspaetung",
+      "vocab_berufschancen",
+      "vocab_der_grund",
+      "vocab_am_liebsten",
+      "vocab_abschliessen",
+      "noun_capitalization_articles",
+      "vocab_sich_bewerben",
+      "vocab_sich_einschreiben",
+      "vocab_vorteil_nachteil",
+      "vocab_herausforderung",
+      "vocab_die_miete"
+    ],
+    "tomorrow": [
+      "nvv_entscheidung_treffen",
+      "nvv_wert_legen",
       "nebensatz_verb_final",
       "comma_before_nebensatz",
       "passiv_partizip_ii",
       "konjunktiv_ii_haette_wuerde",
       "nominalisierung_wegen_genitiv",
-      "vocab_berufschancen",
       "vocab_nennen",
-      "vocab_der_grund",
       "vocab_finden_adj",
-      "vocab_am_liebsten",
-      "vocab_abschliessen",
       "v2_inversion",
       "komparativ_als",
       "country_articles",
       "finden_vs_denken",
       "finden_structure_mix",
-      "noun_capitalization_articles",
       "vocab_voraussetzung",
-      "vocab_sich_bewerben",
       "vocab_zulassung",
       "vocab_bestehen_pruefung",
-      "vocab_sich_einschreiben",
       "vocab_ursache",
       "vocab_folge",
-      "vocab_vorteil_nachteil",
       "vocab_zunehmen_abnehmen",
-      "vocab_herausforderung",
-      "vocab_die_miete",
       "vocab_voraussetzung_spelling",
       "vocab_ursache_folge",
-      "nennen_vs_nehmen"
+      "nennen_vs_nehmen",
+      "vocab_durchfallen",
+      "vocab_den_bus_nehmen",
+      "vocab_puenktlichkeit",
+      "subject_verb_agreement",
+      "es_gibt_akkusativ",
+      "komparativ_umlaut",
+      "regel_vs_regal"
     ],
     "this_week": [],
     "later": []
@@ -58,17 +66,24 @@
       "category": "nomen_verb_verbindungen",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.7,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 1,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 0,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 0,
+          "score": 0
+        }
+      ]
     },
     "nvv_frage_stellen": {
       "id": "nvv_frage_stellen",
@@ -98,17 +113,24 @@
       "category": "nomen_verb_verbindungen",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "nvv_einfluss_nehmen": {
       "id": "nvv_einfluss_nehmen",
@@ -178,17 +200,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "comma_before_nebensatz": {
       "id": "comma_before_nebensatz",
@@ -198,17 +227,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "passiv_partizip_ii": {
       "id": "passiv_partizip_ii",
@@ -218,17 +254,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "konjunktiv_ii_haette_wuerde": {
       "id": "konjunktiv_ii_haette_wuerde",
@@ -238,17 +281,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "nominalisierung_wegen_genitiv": {
       "id": "nominalisierung_wegen_genitiv",
@@ -258,17 +308,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-11-10",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "vocab_berufschancen": {
       "id": "vocab_berufschancen",
@@ -298,17 +355,24 @@
       "category": "exam_instructions",
       "difficulty": "B1",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "vocab_der_grund": {
       "id": "vocab_der_grund",
@@ -338,17 +402,24 @@
       "category": "opinion_phrases",
       "difficulty": "B1",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_am_liebsten": {
       "id": "vocab_am_liebsten",
@@ -398,17 +469,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-11-10",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "komparativ_als": {
       "id": "komparativ_als",
@@ -418,17 +496,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "country_articles": {
       "id": "country_articles",
@@ -438,17 +523,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "finden_vs_denken": {
       "id": "finden_vs_denken",
@@ -458,17 +550,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "finden_structure_mix": {
       "id": "finden_structure_mix",
@@ -478,17 +577,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "noun_capitalization_articles": {
       "id": "noun_capitalization_articles",
@@ -518,17 +624,24 @@
       "category": "university_admission",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "vocab_sich_bewerben": {
       "id": "vocab_sich_bewerben",
@@ -558,17 +671,24 @@
       "category": "university_admission",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_bestehen_pruefung": {
       "id": "vocab_bestehen_pruefung",
@@ -578,17 +698,24 @@
       "category": "university_admission",
       "difficulty": "B1",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "vocab_sich_einschreiben": {
       "id": "vocab_sich_einschreiben",
@@ -618,17 +745,24 @@
       "category": "cause_effect",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 3,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "vocab_folge": {
       "id": "vocab_folge",
@@ -638,17 +772,24 @@
       "category": "cause_effect",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "vocab_vorteil_nachteil": {
       "id": "vocab_vorteil_nachteil",
@@ -678,17 +819,24 @@
       "category": "graph_description",
       "difficulty": "B1",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 4,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_herausforderung": {
       "id": "vocab_herausforderung",
@@ -738,17 +886,24 @@
       "category": "spelling",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
-      "last_quality": 2,
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "vocab_ursache_folge": {
       "id": "vocab_ursache_folge",
@@ -758,17 +913,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-11-10",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "nennen_vs_nehmen": {
       "id": "nennen_vs_nehmen",
@@ -778,13 +940,160 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-10",
+          "quality": 3,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_durchfallen": {
+      "id": "vocab_durchfallen",
+      "type": "vocabulary",
+      "content": "durchfallen (ist durchgefallen)",
+      "answer": "sınavdan kalmak",
+      "category": "university_admission",
+      "difficulty": "B1",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_den_bus_nehmen": {
+      "id": "vocab_den_bus_nehmen",
+      "type": "vocabulary",
+      "content": "den Bus nehmen",
+      "answer": "otobüse binmek",
+      "category": "everyday_phrases",
+      "difficulty": "A2",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "vocab_puenktlichkeit": {
+      "id": "vocab_puenktlichkeit",
+      "type": "vocabulary",
+      "content": "die Pünktlichkeit",
+      "answer": "dakiklik",
+      "category": "academic_culture",
+      "difficulty": "B1",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "subject_verb_agreement": {
+      "id": "subject_verb_agreement",
+      "type": "error_pattern",
+      "content": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
+      "answer": "Die Zahl ... nimmt zu / Ich nehme den Bus",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
       "interval_days": 1,
       "repetitions": 0,
       "easiness_factor": 2.5,
       "consecutive_correct": 0,
       "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-09",
+      "last_reviewed": "2026-11-10",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "es_gibt_akkusativ": {
+      "id": "es_gibt_akkusativ",
+      "type": "error_pattern",
+      "content": "weil der Streik gibt",
+      "answer": "weil es einen Streik gibt",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "komparativ_umlaut": {
+      "id": "komparativ_umlaut",
+      "type": "error_pattern",
+      "content": "Grosser",
+      "answer": "größer",
+      "category": "spelling",
+      "difficulty": "",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "regel_vs_regal": {
+      "id": "regel_vs_regal",
+      "type": "error_pattern",
+      "content": "Die Regal wird erkleart",
+      "answer": "Die Regel wird erklärt",
+      "category": "spelling",
+      "difficulty": "",
+      "created_date": "2026-11-10",
+      "due_date": "2026-11-11",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-10",
       "last_quality": 2,
       "mastery_level": 0,
       "total_reviews": 0,

@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 3
+    "total_sessions": 4
   },
   "sessions": [
     {
@@ -118,6 +118,54 @@
         "first_vocab_session"
       ],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-11-10",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.55,
+      "score_breakdown": {
+        "writing": 0.636,
+        "vocabulary": 0.444
+      },
+      "topics_covered": [
+        "spaced_review",
+        "nebensatz",
+        "passiv",
+        "konjunktiv_ii",
+        "v2",
+        "nominalisierung",
+        "cause_effect",
+        "separable_verbs",
+        "country_articles"
+      ],
+      "breakthroughs": [
+        "Comma before weil placed unprompted (card 1 and 20)",
+        "Passiv correct first try (was 'wird schreiben' yesterday)",
+        "finden + Akk + Adj perfect",
+        "aus der Türkei (Dativ) correct",
+        "V2 failed on card 4, then correct on cards 12 and 20",
+        "Konjunktiv II hätte/würde correct on card 19"
+      ],
+      "focus_next_session": [
+        "Subject-verb agreement (nehme / nimmt)",
+        "Voraussetzung spelling (3rd try)",
+        "eine Prüfung bestehen / eine Entscheidung treffen",
+        "Ursache vs Folge in context",
+        "Nominalisierung: drop the verb"
+      ],
+      "notes": "First review session: 20 of 37 due cards. 11/20 ≥7. Learner asks for hints often — good effortful retrieval. Asked insightful question about singular subject 'die Zahl'. Keyboard: writes 'hatte' meaning 'hätte' — accept when stated.",
+      "achievements_earned": [
+        "first_review_session",
+        "streak_2_days"
+      ],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -135,6 +183,11 @@
       "date": "2026-11-09",
       "milestone": "First vocabulary session — 11 academic words added",
       "session_id": "session-003"
+    },
+    {
+      "date": "2026-11-10",
+      "milestone": "First spaced-repetition review completed",
+      "session_id": "session-004"
     }
   ]
 }

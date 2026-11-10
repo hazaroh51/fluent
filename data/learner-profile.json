@@ -15,16 +15,16 @@
     "study_plan": "Sprachschule in Duisburg → DSH → BWL-Studium in Deutschland; wants to work in Germany afterwards"
   },
   "profile_created": "2026-11-09",
-  "last_updated": "2026-11-09",
-  "current_streak_days": 1,
-  "total_sessions": 3,
-  "total_study_minutes": 80,
+  "last_updated": "2026-11-10",
+  "current_streak_days": 2,
+  "total_sessions": 4,
+  "total_study_minutes": 110,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 6,
-      "last_practiced": "2026-11-09",
-      "total_practice_time": 20
+      "confidence": 23,
+      "last_practiced": "2026-11-10",
+      "total_practice_time": 37
     },
     "speaking": {
       "current_level": 1,
@@ -34,9 +34,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 18,
-      "last_practiced": "2026-11-09",
-      "total_practice_time": 30
+      "confidence": 26,
+      "last_practiced": "2026-11-10",
+      "total_practice_time": 43
     },
     "reading": {
       "current_level": 0,
@@ -81,6 +81,12 @@
       "name": "First vocabulary session — 11 academic words added",
       "earned_date": "2026-11-09",
       "description": "First vocabulary session — 11 academic words added"
+    },
+    {
+      "id": "session_session-004_0_first_spaced_repetition_review",
+      "name": "First spaced-repetition review completed",
+      "earned_date": "2026-11-10",
+      "description": "First spaced-repetition review completed"
     }
   ],
   "preferences": {
