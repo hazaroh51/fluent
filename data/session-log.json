@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 5
+    "total_sessions": 6
   },
   "sessions": [
     {
@@ -202,6 +202,41 @@
         "first_reading_session"
       ],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-006",
+      "date": "2026-11-10",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "writing"
+      ],
+      "command_used": "/fluent-writing",
+      "exercises_completed": 1,
+      "accuracy": 0.0,
+      "score_breakdown": {
+        "writing": 0.0
+      },
+      "topics_covered": [
+        "textproduktion",
+        "argumentation",
+        "vor_und_nachteile"
+      ],
+      "breakthroughs": [
+        "Followed 4-part argument structure correctly",
+        "Außerdem kann man (V2) and 'Ein Nachteil ist jedoch, dass' used correctly"
+      ],
+      "focus_next_session": [
+        "Write full dass-clauses (subject + verb at end)",
+        "V2 after 'Meiner Meinung nach' / 'Deshalb'",
+        "Reach 80+ words",
+        "es gibt + Akk"
+      ],
+      "notes": "First writing task (~50 words, target 80–120). Learner declined rewrite. Ideas good, sentences too compressed — Turkish-style dropping of subject/verb in dass-clauses.",
+      "achievements_earned": [
+        "first_writing_session",
+        "all_skills_tried"
+      ],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -229,6 +264,11 @@
       "date": "2026-11-10",
       "milestone": "First reading session — 6/7 questions",
       "session_id": "session-005"
+    },
+    {
+      "date": "2026-11-10",
+      "milestone": "Tried all four skills (speaking, vocabulary, reading, writing)",
+      "session_id": "session-006"
     }
   ]
 }

@@ -17,14 +17,14 @@
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-10",
   "current_streak_days": 2,
-  "total_sessions": 5,
-  "total_study_minutes": 130,
+  "total_sessions": 6,
+  "total_study_minutes": 150,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 23,
+      "confidence": 16,
       "last_practiced": "2026-11-10",
-      "total_practice_time": 37
+      "total_practice_time": 57
     },
     "speaking": {
       "current_level": 1,
@@ -93,6 +93,12 @@
       "name": "First reading session — 6/7 questions",
       "earned_date": "2026-11-10",
       "description": "First reading session — 6/7 questions"
+    },
+    {
+      "id": "session_session-006_0_tried_all_four_skills_speakin",
+      "name": "Tried all four skills (speaking, vocabulary, reading, writing)",
+      "earned_date": "2026-11-10",
+      "description": "Tried all four skills (speaking, vocabulary, reading, writing)"
     }
   ],
   "preferences": {

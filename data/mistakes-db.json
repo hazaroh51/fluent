@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-10",
-    "total_patterns_tracked": 23,
+    "total_patterns_tracked": 26,
     "language": "German"
   },
   "error_patterns": {
@@ -178,14 +178,14 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-10",
       "last_occurred": "2026-11-10",
       "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "jetzt ich möchte",
@@ -204,9 +204,15 @@
           "correct": "Jetzt lerne ich Deutsch in Duisburg.",
           "context": "Review card 4",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "Meiner Meinung nach Ich studiere in Deutschland",
+          "correct": "Meiner Meinung nach ist es besser, in Deutschland zu studieren.",
+          "context": "Writing",
+          "date": "2026-11-10"
         }
       ],
-      "notes": "Correct later on card 12 (Morgen schreibe ich) and card 20 (Heute fahren)."
+      "notes": "V2 still fails after longer opening phrases (Meiner Meinung nach)."
     },
     "komparativ_als": {
       "category": "grammar",
@@ -259,20 +265,26 @@
       "subcategory": "verb_choice",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "dass ich die Work life Balance sehr nett denke",
           "correct": "Für mich ist eine gute Work-Life-Balance sehr wichtig / Ich finde ... gut",
           "context": "Speaking Q3b",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "weil ich die Bildung in Deutschland besser als in der Türkei denken",
+          "correct": "weil ich die Bildung in Deutschland besser finde als in der Türkei",
+          "context": "Writing",
+          "date": "2026-11-10"
         }
       ],
       "notes": "Also used 'nett' for things."
@@ -455,19 +467,25 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-10",
       "last_occurred": "2026-11-10",
       "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
           "correct": "Die Zahl ... nimmt zu / Ich nehme den Bus",
           "context": "Review cards 14 + 18",
+          "date": "2026-11-10"
+        },
+        {
+          "incorrect": "ich ... denken",
+          "correct": "ich ... finde",
+          "context": "Writing",
           "date": "2026-11-10"
         }
       ],
@@ -478,19 +496,25 @@
       "subcategory": "es_gibt",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
       "last_seen": "2026-11-10",
       "last_occurred": "2026-11-10",
       "next_review": "2026-11-11",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "weil der Streik gibt",
           "correct": "weil es einen Streik gibt",
           "context": "Review card 20",
+          "date": "2026-11-10"
+        },
+        {
+          "incorrect": "Ein grosser Vorteil ist Berufschancen.",
+          "correct": "Ein großer Vorteil ist, dass es gute Berufschancen gibt.",
+          "context": "Writing: Studieren im Ausland",
           "date": "2026-11-10"
         }
       ],
@@ -583,6 +607,75 @@
           "incorrect": "falsch (no evidence cited)",
           "correct": "falsch — 'Erst wenn man diese Prüfung bestanden hat…'",
           "context": "Q4 true/false",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "dass_clause_incomplete": {
+      "category": "grammar",
+      "subcategory": "clause_structure",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Ein Nachteil ist jedoch, dass neue Huse fiden.",
+          "correct": "Ein Nachteil ist jedoch, dass es schwierig ist, eine Wohnung zu finden.",
+          "context": "Writing",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": "dass-clause without subject/finite verb; zu-Infinitiv needed."
+    },
+    "ausbildung_vs_studium": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "eine gute Ausbildung erhalten",
+          "correct": "eine gute Bildung erhalten / ein gutes Studium",
+          "context": "Writing",
+          "date": "2026-11-10"
+        }
+      ],
+      "notes": ""
+    },
+    "writing_length": {
+      "category": "writing",
+      "subcategory": "task_requirements",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-10",
+      "last_occurred": "2026-11-10",
+      "next_review": "2026-11-11",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "~50 words",
+          "correct": "80–120 words",
+          "context": "Writing",
           "date": "2026-11-10"
         }
       ],
