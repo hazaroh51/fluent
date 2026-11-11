@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-10",
-    "total_patterns_tracked": 26,
+    "last_updated": "2026-11-11",
+    "total_patterns_tracked": 31,
     "language": "German"
   },
   "error_patterns": {
@@ -120,14 +120,14 @@
       "subcategory": "konjunktiv_ii",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.7,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "Wenn ich mehr Zeit habe, werde ich",
@@ -140,23 +140,29 @@
           "correct": "Wenn ich reich wäre, würde ich",
           "context": "Review card 3",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "hätte (for sein)",
+          "correct": "wäre",
+          "context": "Wenn ich in Deutschland ___ (sein)",
+          "date": "2026-11-11"
         }
       ],
-      "notes": "würde OK; sein→wäre missing. Card 19 hätte/würde correct."
+      "notes": "würde stable; confuses wäre/hätte."
     },
     "nominalisierung_wegen_genitiv": {
       "category": "grammar",
       "subcategory": "nominalisierung",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.8,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "(did not know)",
@@ -169,9 +175,15 @@
           "correct": "Wegen des Streiks",
           "context": "Review card 10",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "Wegen des eines Stau",
+          "correct": "Wegen des Staus",
+          "context": "Review card 10",
+          "date": "2026-11-11"
         }
       ],
-      "notes": "Genitive correct, but kept the verb (es ... gibt)."
+      "notes": "Dropped verb correctly now; double article + missing Genitiv -s."
     },
     "v2_inversion": {
       "category": "grammar",
@@ -369,14 +381,14 @@
       "subcategory": "cause_effect",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "(translated sentence but skipped Ursache; could not recall in production without hint)",
@@ -389,9 +401,15 @@
           "correct": "Folge",
           "context": "Cloze: Viele fahren Auto. Die ___ ist, dass die Luft schlecht ist.",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "Folge (for cause slot)",
+          "correct": "Ursachen dafür sind die hohen Mieten",
+          "context": "Review card 4",
+          "date": "2026-11-11"
         }
       ],
-      "notes": ""
+      "notes": "Swapped in both directions on consecutive days — taught WARUM-test and dafür/dass cue."
     },
     "vocab_zulassung": {
       "category": "vocabulary",
@@ -467,14 +485,14 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
@@ -487,9 +505,15 @@
           "correct": "ich ... finde",
           "context": "Writing",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "dass die Mieten sehr hoch ist",
+          "correct": "dass die Mieten sehr hoch sind",
+          "context": "Review card 7",
+          "date": "2026-11-11"
         }
       ],
-      "notes": "Leaves nehmen in infinitive form; singular subject 'die Zahl der ...'."
+      "notes": "Correct on card 5 (nehme/nimmt), 15 (lernt) and 20 (Mieten sind)."
     },
     "es_gibt_akkusativ": {
       "category": "grammar",
@@ -680,6 +704,121 @@
         }
       ],
       "notes": ""
+    },
+    "nvv_frage_stellen": {
+      "category": "vocabulary",
+      "subcategory": "nomen_verb_verbindungen",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Fragen",
+          "correct": "eine Frage stellen",
+          "context": "Review card 11",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
+    },
+    "separable_verb_conjugation": {
+      "category": "grammar",
+      "subcategory": "separable_verbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "sondern auch neue Leute kennenlernen",
+          "correct": "sondern ich lerne auch neue Leute kennen",
+          "context": "Review card 13",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_erst_wenn": {
+      "category": "vocabulary",
+      "subcategory": "connectors",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "geçtiğinde (= wenn)",
+          "correct": "ancak geçtiğinde (erst wenn)",
+          "context": "Review card 14",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
+    },
+    "adjective_declension": {
+      "category": "grammar",
+      "subcategory": "adjective_endings",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "eine Gross Universiteat / mein Schwester",
+          "correct": "eine große Universität / meine Schwester",
+          "context": "Review cards 6 + 15",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
+    },
+    "missing_subject": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Meiner Meinung nach ist in Deutschland die Herausforderung",
+          "correct": "Meiner Meinung nach ist das Studium in Deutschland eine Herausforderung",
+          "context": "Review card 20",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "Drops subject (Turkish pro-drop / implied subject)."
     }
   }
 }

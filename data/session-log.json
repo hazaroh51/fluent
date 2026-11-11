@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 6
+    "total_sessions": 7
   },
   "sessions": [
     {
@@ -237,6 +237,53 @@
         "all_skills_tried"
       ],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-007",
+      "date": "2026-11-11",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "writing": 0.727,
+        "vocabulary": 0.667
+      },
+      "topics_covered": [
+        "spaced_review",
+        "v2",
+        "konjunktiv_ii",
+        "nominalisierung",
+        "nvv",
+        "cause_effect",
+        "zu_infinitiv",
+        "subject_verb_agreement"
+      ],
+      "breakthroughs": [
+        "V2 after 'Meiner Meinung nach' / 'Deshalb' / 'In Duisburg' all correct",
+        "treffen and bestanden recalled without hints",
+        "nehme/nimmt correct",
+        "finden vs denken perfectly distinguished",
+        "Nominalisierung: verb dropped correctly",
+        "Voraussetzung: 'aus' now present"
+      ],
+      "focus_next_session": [
+        "Ursache vs Folge (WARUM-test)",
+        "wäre vs hätte",
+        "eine Frage stellen",
+        "Genitiv -s (des Staus)",
+        "Keep explicit subject in sentences",
+        "Adjective endings (eine große …)"
+      ],
+      "notes": "Day 3. 20 of 61 due cards. Big improvements on V2 and finden. Still requests hints often — good.",
+      "achievements_earned": [
+        "streak_3_days"
+      ],
+      "streak_day": 3
     }
   ],
   "milestones": [
@@ -269,6 +316,11 @@
       "date": "2026-11-10",
       "milestone": "Tried all four skills (speaking, vocabulary, reading, writing)",
       "session_id": "session-006"
+    },
+    {
+      "date": "2026-11-11",
+      "milestone": "3-day streak",
+      "session_id": "session-007"
     }
   ]
 }
