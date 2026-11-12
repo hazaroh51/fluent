@@ -15,10 +15,10 @@
     "study_plan": "Sprachschule in Duisburg → DSH → BWL-Studium in Deutschland; wants to work in Germany afterwards"
   },
   "profile_created": "2026-11-09",
-  "last_updated": "2026-11-11",
-  "current_streak_days": 3,
-  "total_sessions": 7,
-  "total_study_minutes": 180,
+  "last_updated": "2026-11-12",
+  "current_streak_days": 4,
+  "total_sessions": 8,
+  "total_study_minutes": 205,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -28,9 +28,9 @@
     },
     "speaking": {
       "current_level": 1,
-      "confidence": 13,
-      "last_practiced": "2026-11-09",
-      "total_practice_time": 30
+      "confidence": 29,
+      "last_practiced": "2026-11-12",
+      "total_practice_time": 55
     },
     "vocabulary": {
       "current_level": 1,
@@ -105,6 +105,12 @@
       "name": "3-day streak",
       "earned_date": "2026-11-11",
       "description": "3-day streak"
+    },
+    {
+      "id": "session_session-008_0_first_spontaneous_konjunktiv_i",
+      "name": "First spontaneous Konjunktiv II sentence in conversation",
+      "earned_date": "2026-11-12",
+      "description": "First spontaneous Konjunktiv II sentence in conversation"
     }
   ],
   "preferences": {

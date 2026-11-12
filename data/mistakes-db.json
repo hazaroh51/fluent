@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11",
-    "total_patterns_tracked": 31,
+    "last_updated": "2026-11-12",
+    "total_patterns_tracked": 37,
     "language": "German"
   },
   "error_patterns": {
@@ -802,23 +802,167 @@
       "subcategory": "sentence_structure",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "Meiner Meinung nach ist in Deutschland die Herausforderung",
           "correct": "Meiner Meinung nach ist das Studium in Deutschland eine Herausforderung",
           "context": "Review card 20",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "Ich benutze, weil … / dass Einfluss auf haben",
+          "correct": "Ich benutze sie, weil … / dass soziale Medien einen negativen Einfluss auf junge Menschen haben",
+          "context": "Speaking Q1b + Q2",
+          "date": "2026-11-12"
         }
       ],
-      "notes": "Drops subject (Turkish pro-drop / implied subject)."
+      "notes": "Drops objects/subjects (Turkish pro-drop). Fixed in Q2b."
+    },
+    "inversion_after_und_oder": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "und verbringe ich 4 stunde / oder michte ich mehr Bücher lesen",
+          "correct": "und (ich) verbringe 4 Stunden / oder mehr Bücher lesen",
+          "context": "Speaking Q1 + Q4",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": "Over-applies V2 inversion after und/oder (Position 0 conjunctions)."
+    },
+    "incomplete_reason_clause": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "und für lustige Videos",
+          "correct": "und um lustige Videos zu sehen",
+          "context": "Speaking Q1b",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "man_vs_mann": {
+      "category": "spelling",
+      "subcategory": "similar_words",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "dass Mann sich schnell informieren kann",
+          "correct": "dass man sich schnell informieren kann",
+          "context": "Speaking Q2",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "mehr_vs_oefter": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "mehr meine Freunde treffen",
+          "correct": "meine Freunde öfter treffen",
+          "context": "Speaking Q4",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "plural_nouns": {
+      "category": "grammar",
+      "subcategory": "plural",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "4 stunde",
+          "correct": "4 Stunden",
+          "context": "Speaking Q1",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "speaking_short_answers": {
+      "category": "speaking",
+      "subcategory": "exam_strategy",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "answers without warum / reason",
+          "correct": "always add a Begründung (weil …)",
+          "context": "Speaking Q1 + Q3",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
     }
   }
 }

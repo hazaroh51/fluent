@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 7
+    "total_sessions": 8
   },
   "sessions": [
     {
@@ -284,6 +284,45 @@
         "streak_3_days"
       ],
       "streak_day": 3
+    },
+    {
+      "session_id": "session-008",
+      "date": "2026-11-12",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "/fluent-speaking",
+      "exercises_completed": 6,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "speaking": 0.667
+      },
+      "topics_covered": [
+        "soziale_medien",
+        "vor_und_nachteile",
+        "meinung",
+        "konjunktiv_ii_hypothetical"
+      ],
+      "breakthroughs": [
+        "'Ein Vorteil ist, dass man sich schnell informieren kann' — B2 sentence",
+        "Einfluss haben auf used correctly in full sentence",
+        "V2 perfect after Meiner Meinung nach and Deshalb + modal",
+        "First spontaneous Konjunktiv II: Wenn es keine sozialen Medien gäbe, würde ich …"
+      ],
+      "focus_next_session": [
+        "No inversion after und/oder/aber/sondern",
+        "Always include object/subject (sie, es)",
+        "Always give a reason (weil …)",
+        "um … zu",
+        "mehr vs öfter"
+      ],
+      "notes": "Day 4. Resumed per learner's request (PENDING: speaking first). Topic social media; learner uses Instagram/TikTok ~4h/day and thinks it's too much. Typos from Turkish keyboard (hınge, ıch).",
+      "achievements_earned": [
+        "streak_4_days",
+        "first_konjunktiv_ii_spontaneous"
+      ],
+      "streak_day": 4
     }
   ],
   "milestones": [
@@ -321,6 +360,11 @@
       "date": "2026-11-11",
       "milestone": "3-day streak",
       "session_id": "session-007"
+    },
+    {
+      "date": "2026-11-12",
+      "milestone": "First spontaneous Konjunktiv II sentence in conversation",
+      "session_id": "session-008"
     }
   ]
 }
