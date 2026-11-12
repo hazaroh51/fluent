@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 8
+    "total_sessions": 9
   },
   "sessions": [
     {
@@ -323,6 +323,55 @@
         "first_konjunktiv_ii_spontaneous"
       ],
       "streak_day": 4
+    },
+    {
+      "session_id": "session-009",
+      "date": "2026-11-12",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "writing": 0.6,
+        "vocabulary": 0.8
+      },
+      "topics_covered": [
+        "spaced_review",
+        "cause_effect",
+        "nvv",
+        "nominalisierung",
+        "word_order_und",
+        "passiv",
+        "adjective_endings",
+        "separable_verbs",
+        "erst_wenn"
+      ],
+      "breakthroughs": [
+        "Folge correct with dass-cue after 2 days of swapping",
+        "Voraussetzung spelled correctly without hint (4th attempt)",
+        "Wegen des Unfalles — Nominalisierung perfect",
+        "Die Zahl … nimmt ab — singular trap avoided",
+        "lerne … kennen separable correct",
+        "Ich lege viel Wert auf Pünktlichkeit"
+      ],
+      "focus_next_session": [
+        "der Ruf (learner asked to be re-asked!)",
+        "durchfallen",
+        "Inversion after leading Nebensatz (Obwohl …, lerne ich)",
+        "Passiv plural: werden",
+        "Dativ adjective -en",
+        "Spaß machen",
+        "sich (reflexive) in einschreiben/bewerben"
+      ],
+      "notes": "Day 4 second session. Avg ~7.6/10. Many long-standing errors now fixed. Learner requested Ruf to be asked again tomorrow.",
+      "achievements_earned": [
+        "voraussetzung_conquered"
+      ],
+      "streak_day": 4
     }
   ],
   "milestones": [
@@ -365,6 +414,11 @@
       "date": "2026-11-12",
       "milestone": "First spontaneous Konjunktiv II sentence in conversation",
       "session_id": "session-008"
+    },
+    {
+      "date": "2026-11-12",
+      "milestone": "Spelled 'Voraussetzung' correctly without a hint after 4 attempts",
+      "session_id": "session-009"
     }
   ]
 }

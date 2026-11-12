@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-12",
-    "total_patterns_tracked": 37,
+    "total_patterns_tracked": 42,
     "language": "German"
   },
   "error_patterns": {
@@ -485,14 +485,14 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
@@ -511,6 +511,12 @@
           "correct": "dass die Mieten sehr hoch sind",
           "context": "Review card 7",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "Die Deutschekurse wird angeboten",
+          "correct": "Viele Deutschkurse werden angeboten",
+          "context": "Review card 10 (Passiv)",
+          "date": "2026-11-12"
         }
       ],
       "notes": "Correct on card 5 (nehme/nimmt), 15 (lernt) and 20 (Mieten sind)."
@@ -756,46 +762,58 @@
       "subcategory": "connectors",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "geçtiğinde (= wenn)",
           "correct": "ancak geçtiğinde (erst wenn)",
           "context": "Review card 14",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "DSH sınavını geçtiğimde … (no 'ancak')",
+          "correct": "Ancak DSH'yi geçtiğimde …",
+          "context": "Review card 6",
+          "date": "2026-11-12"
         }
       ],
-      "notes": ""
+      "notes": "2nd time missing nuance; fixed on retype. Used correctly in production card 20."
     },
     "adjective_declension": {
       "category": "grammar",
       "subcategory": "adjective_endings",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "eine Gross Universiteat / mein Schwester",
           "correct": "eine große Universität / meine Schwester",
           "context": "Review cards 6 + 15",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "in einer große Stadt",
+          "correct": "in einer großen Stadt",
+          "context": "Review card 12",
+          "date": "2026-11-12"
         }
       ],
-      "notes": ""
+      "notes": "meine Mutter / mein Vater correct."
     },
     "missing_subject": {
       "category": "grammar",
@@ -831,19 +849,25 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-12",
       "last_occurred": "2026-11-12",
       "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "und verbringe ich 4 stunde / oder michte ich mehr Bücher lesen",
           "correct": "und (ich) verbringe 4 Stunden / oder mehr Bücher lesen",
           "context": "Speaking Q1 + Q4",
+          "date": "2026-11-12"
+        },
+        {
+          "incorrect": "only c (missed 'und dann mache ich' as correct)",
+          "correct": "a + c correct",
+          "context": "Review card 4",
           "date": "2026-11-12"
         }
       ],
@@ -963,6 +987,121 @@
         }
       ],
       "notes": ""
+    },
+    "spass_machen": {
+      "category": "vocabulary",
+      "subcategory": "collocations",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "es ist schwer, aber Spass",
+          "correct": "es ist schwer, aber es macht Spaß / … aber interessant",
+          "context": "Review card 13",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "inversion_after_nebensatz": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Obwohl ich müde bin, Ich lerne weiter Deutsch",
+          "correct": "Obwohl ich müde bin, lerne ich weiter Deutsch",
+          "context": "Review card 15",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": "Correct in card 20 (…, kann ich)."
+    },
+    "reflexive_pronoun_missing": {
+      "category": "grammar",
+      "subcategory": "reflexive_verbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "kann ich zu Universiaetet einschreiben",
+          "correct": "kann ich mich an der Universität einschreiben",
+          "context": "Review card 20",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_durchfallen": {
+      "category": "vocabulary",
+      "subcategory": "university_admission",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not recall, even with hint)",
+          "correct": "durchfallen (ist durchgefallen)",
+          "context": "Review card 18",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_ruf": {
+      "category": "vocabulary",
+      "subcategory": "academic_nouns",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ruf mu (with hint)",
+          "correct": "der Ruf",
+          "context": "Review card 19",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": "Learner explicitly asked to be asked again — says they will forget it."
     }
   }
 }
