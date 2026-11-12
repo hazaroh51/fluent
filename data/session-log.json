@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 9
+    "total_sessions": 10
   },
   "sessions": [
     {
@@ -371,6 +371,42 @@
       "achievements_earned": [
         "voraussetzung_conquered"
       ],
+      "streak_day": 4
+    },
+    {
+      "session_id": "session-010",
+      "date": "2026-11-12",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "reading"
+      ],
+      "command_used": "/fluent-reading",
+      "exercises_completed": 7,
+      "accuracy": 1.0,
+      "score_breakdown": {
+        "reading": 1.0
+      },
+      "topics_covered": [
+        "reading_comprehension",
+        "soziale_medien_konzentration",
+        "true_false_evidence",
+        "vocab_in_context",
+        "grammar_spotting"
+      ],
+      "breakthroughs": [
+        "Main idea correct",
+        "Used context to choose between two meanings (umgehen)",
+        "Found all three advantages",
+        "Spotted wegen + Genitiv and erst wenn structures in authentic text"
+      ],
+      "focus_next_session": [
+        "Always cite evidence for richtig/falsch",
+        "Answer all parts of a question (Was? Warum?)",
+        "Translate when asked",
+        "Genitiv plural der"
+      ],
+      "notes": "Text 2 (~240 words, B1+/B2) on smartphones and concentration. All 7 eventually correct; several needed scaffolding/prompting for second parts or evidence. Strong at main idea and grammar spotting.",
+      "achievements_earned": [],
       "streak_day": 4
     }
   ],

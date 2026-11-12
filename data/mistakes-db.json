@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-12",
-    "total_patterns_tracked": 42,
+    "total_patterns_tracked": 44,
     "language": "German"
   },
   "error_patterns": {
@@ -624,23 +624,29 @@
       "subcategory": "exam_strategy",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "falsch (no evidence cited)",
           "correct": "falsch — 'Erst wenn man diese Prüfung bestanden hat…'",
           "context": "Q4 true/false",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "yanlış (no evidence until prompted)",
+          "correct": "Falsch — 'dauert es etwa 20 Minuten, bis man wieder voll konzentriert ist'",
+          "context": "Text 2 Q3",
+          "date": "2026-11-12"
         }
       ],
-      "notes": ""
+      "notes": "2nd reading session in a row without citing evidence; gave it after prompt."
     },
     "dass_clause_incomplete": {
       "category": "grammar",
@@ -1102,6 +1108,52 @@
         }
       ],
       "notes": "Learner explicitly asked to be asked again — says they will forget it."
+    },
+    "reading_partial_answers": {
+      "category": "reading",
+      "subcategory": "exam_strategy",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "answers only first part of two-part questions (what but not why; 'Vorteile' but not which)",
+          "correct": "answer every part (Was? + Warum?)",
+          "context": "Text 2 Q2, Q6",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
+    },
+    "reading_detail_tips": {
+      "category": "reading",
+      "subcategory": "locating_information",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-12",
+      "last_occurred": "2026-11-12",
+      "next_review": "2026-11-13",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(could not find tips without scaffolding)",
+          "correct": "Handy in anderen Raum legen; feste Zeiten für soziale Medien planen",
+          "context": "Text 2 Q5",
+          "date": "2026-11-12"
+        }
+      ],
+      "notes": ""
     }
   }
 }

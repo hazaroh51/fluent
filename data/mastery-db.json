@@ -30,11 +30,11 @@
     },
     "reading": {
       "mastery_level": 1,
-      "confidence_score": 0.857,
-      "total_practice_time": 20,
-      "last_practiced": "2026-11-10",
-      "practice_count": 7,
-      "avg_accuracy": 0.857
+      "confidence_score": 0.928,
+      "total_practice_time": 45,
+      "last_practiced": "2026-11-12",
+      "practice_count": 14,
+      "avg_accuracy": 0.928
     },
     "listening": {
       "mastery_level": 0,
