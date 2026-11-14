@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-14",
-    "total_patterns_tracked": 52,
+    "total_patterns_tracked": 58,
     "language": "German"
   },
   "error_patterns": {
@@ -39,14 +39,14 @@
       "subcategory": "punctuation",
       "description": "",
       "severity": "moderate",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-14",
       "last_occurred": "2026-11-14",
       "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "Deutsch obwohl ich wenig Zeit habe",
@@ -70,6 +70,12 @@
           "incorrect": "Ein Grosser Vorteil ist dass",
           "correct": "Ein großer Vorteil ist, dass",
           "context": "Writing 2",
+          "date": "2026-11-14"
+        },
+        {
+          "incorrect": "Wer süchtig nach dem Handy ist sollte",
+          "correct": "Wer süchtig nach dem Handy ist, sollte",
+          "context": "Review card 20",
           "date": "2026-11-14"
         }
       ],
@@ -763,20 +769,26 @@
       "subcategory": "separable_verbs",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "sondern auch neue Leute kennenlernen",
           "correct": "sondern ich lerne auch neue Leute kennen",
           "context": "Review card 13",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "sondern auch neue Freunde finden",
+          "correct": "sondern man findet auch neue Freunde",
+          "context": "Review card 3 — leaves 2nd verb as infinitive after sondern",
+          "date": "2026-11-14"
         }
       ],
       "notes": ""
@@ -1201,19 +1213,25 @@
       "subcategory": "adjective_endings",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-14",
       "last_occurred": "2026-11-14",
       "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "mit einem neue Auto",
           "correct": "mit einem neuen Auto",
           "context": "Review card 5",
+          "date": "2026-11-14"
+        },
+        {
+          "incorrect": "auf sozial Medien",
+          "correct": "auf sozialen Medien",
+          "context": "Review card 20 (correct in card 11)",
           "date": "2026-11-14"
         }
       ],
@@ -1352,6 +1370,144 @@
           "incorrect": "advantage → disadvantage → advantage (repeated idea) → opinion",
           "correct": "advantages → disadvantages (+Ursache, Folge) → opinion + advice",
           "context": "Writing 2",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "eine_frage_singular": {
+      "category": "grammar",
+      "subcategory": "singular_plural",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "eine Fragen stellen",
+          "correct": "eine Frage stellen",
+          "context": "Review card 1 (2nd time)",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "Dativ dem Professor + structure correct."
+    },
+    "perfekt_partizip_needed": {
+      "category": "grammar",
+      "subcategory": "perfekt",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "hat die DSH … bestehen",
+          "correct": "hat die DSH … bestanden",
+          "context": "Review card 2",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_abschluss": {
+      "category": "vocabulary",
+      "subcategory": "word_formation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "abschlossen (verb form for noun slot)",
+          "correct": "der Abschluss",
+          "context": "Review card 6",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_staendig": {
+      "category": "vocabulary",
+      "subcategory": "adverbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "stopplos (creative coinage)",
+          "correct": "ständig (also: pausenlos, nonstop)",
+          "context": "Review card 13",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_hindernis_vs_problem": {
+      "category": "vocabulary",
+      "subcategory": "precision",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "problem",
+          "correct": "engel (das Hindernis)",
+          "context": "Review card 10",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "austauschen_vs_austauchen": {
+      "category": "spelling",
+      "subcategory": "similar_words",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "sich austauchen",
+          "correct": "sich austauschen",
+          "context": "Review card 18",
           "date": "2026-11-14"
         }
       ],

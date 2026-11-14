@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 12
+    "total_sessions": 13
   },
   "sessions": [
     {
@@ -497,6 +497,49 @@
       "achievements_earned": [
         "writing_improvement"
       ],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-013",
+      "date": "2026-11-14",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.75,
+      "score_breakdown": {
+        "writing": 0.778,
+        "vocabulary": 0.727
+      },
+      "topics_covered": [
+        "spaced_review",
+        "vocabulary_from_reading_texts",
+        "word_formation",
+        "separable_verbs",
+        "genitiv_plural",
+        "wer_sollte"
+      ],
+      "breakthroughs": [
+        "Wer die DSH bestehen will, sollte jeden Tag lernen (C1 structure, perfect)",
+        "Genitiv plural der vielen fixed same day",
+        "-bar suffix fully understood",
+        "anbieten present + Perfekt correct",
+        "Es dauert lange, Deutsch zu lernen — transferred zu-pattern",
+        "Ausbildung/Studium/Bildung distinguished"
+      ],
+      "focus_next_session": [
+        "eine Frage (singular)",
+        "Perfekt: hat + Partizip II (bestanden)",
+        "Second verb after sondern must be conjugated",
+        "der Abschluss (noun) vs abschließen",
+        "ständig",
+        "Comma after Wer-clause"
+      ],
+      "notes": "Second review of the day (cards 21–40 of backlog). 15/20 ≥7, avg ≈ 7.6. Learner asks for meanings/retypes — good engagement. Creative word-building (stopplos).",
+      "achievements_earned": [],
       "streak_day": 1
     }
   ],

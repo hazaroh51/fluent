@@ -6,11 +6,11 @@
   "skills": {
     "writing": {
       "mastery_level": 2,
-      "confidence_score": 0.559,
-      "total_practice_time": 127,
+      "confidence_score": 0.586,
+      "total_practice_time": 140,
       "last_practiced": "2026-11-14",
-      "practice_count": 51,
-      "avg_accuracy": 0.559
+      "practice_count": 60,
+      "avg_accuracy": 0.586
     },
     "speaking": {
       "mastery_level": 1,
@@ -22,11 +22,11 @@
     },
     "vocabulary": {
       "mastery_level": 2,
-      "confidence_score": 0.585,
-      "total_practice_time": 83,
+      "confidence_score": 0.605,
+      "total_practice_time": 100,
       "last_practiced": "2026-11-14",
-      "practice_count": 47,
-      "avg_accuracy": 0.585
+      "practice_count": 58,
+      "avg_accuracy": 0.605
     },
     "reading": {
       "mastery_level": 1,
