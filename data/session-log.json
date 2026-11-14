@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 10
+    "total_sessions": 11
   },
   "sessions": [
     {
@@ -408,6 +408,58 @@
       "notes": "Text 2 (~240 words, B1+/B2) on smartphones and concentration. All 7 eventually correct; several needed scaffolding/prompting for second parts or evidence. Strong at main idea and grammar spotting.",
       "achievements_earned": [],
       "streak_day": 4
+    },
+    {
+      "session_id": "session-011",
+      "date": "2026-11-14",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "writing",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.85,
+      "score_breakdown": {
+        "writing": 0.75,
+        "vocabulary": 1.0
+      },
+      "topics_covered": [
+        "spaced_review",
+        "nebensatz_inversion",
+        "spass_machen",
+        "dativ_adjectives",
+        "und_oder",
+        "um_zu",
+        "konjunktiv_ii",
+        "cause_effect",
+        "genitiv_plural",
+        "reflexive",
+        "plural",
+        "passiv_plural"
+      ],
+      "breakthroughs": [
+        "Ruf and durchfallen recalled (with hints) after 2-day gap",
+        "oder + normal order correct",
+        "um … zu perfect",
+        "Ursache für + noun correct",
+        "All reflexive pronouns correct (mich/sich/uns)",
+        "Plurals incl. Gründe correct",
+        "Final integration sentence perfect (10/10): in einen anderen Raum, weil die Benachrichtigungen meine Konzentration beeinflussen"
+      ],
+      "focus_next_session": [
+        "Passiv plural werden (2× wird)",
+        "Genitiv plural: wegen der vielen …",
+        "es gibt → es gäbe",
+        "Inversion after leading Nebensatz",
+        "mit + Dativ adjective -en",
+        "Ruf without hint"
+      ],
+      "notes": "Back after a missed day (11-13) — streak reset to 1. 85 due, did 20 (covered ~31 items). 17/20 ≥7, avg ≈ 7.9. Strong retention after the gap.",
+      "achievements_earned": [
+        "comeback_after_break"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -455,6 +507,11 @@
       "date": "2026-11-12",
       "milestone": "Spelled 'Voraussetzung' correctly without a hint after 4 attempts",
       "session_id": "session-009"
+    },
+    {
+      "date": "2026-11-14",
+      "milestone": "Came back after a missed day",
+      "session_id": "session-011"
     }
   ]
 }

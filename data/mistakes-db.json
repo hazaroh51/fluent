@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12",
-    "total_patterns_tracked": 44,
+    "last_updated": "2026-11-14",
+    "total_patterns_tracked": 49,
     "language": "German"
   },
   "error_patterns": {
@@ -485,14 +485,14 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-12",
-      "last_occurred": "2026-11-12",
-      "next_review": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
@@ -517,9 +517,15 @@
           "correct": "Viele Deutschkurse werden angeboten",
           "context": "Review card 10 (Passiv)",
           "date": "2026-11-12"
+        },
+        {
+          "incorrect": "Die Prüfungen wird korrigiert / weil es schnell sind (soziale Medien)",
+          "correct": "Die Prüfungen werden korrigiert / weil sie schnell sind",
+          "context": "Review cards 18 + 19",
+          "date": "2026-11-14"
         }
       ],
-      "notes": "Correct on card 5 (nehme/nimmt), 15 (lernt) and 20 (Mieten sind)."
+      "notes": "Passiv plural 'wird' — 2nd time. Taught '-en → werd-en'. Correct in card 20 (Benachrichtigungen … beeinflussen)."
     },
     "es_gibt_akkusativ": {
       "category": "grammar",
@@ -1154,6 +1160,121 @@
         }
       ],
       "notes": ""
+    },
+    "weil_logic_reversed": {
+      "category": "grammar",
+      "subcategory": "clause_logic",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Ich habe keine Zeit, weil ich heute nicht kommen kann",
+          "correct": "Weil ich keine Zeit habe, kann ich heute nicht kommen",
+          "context": "Review card 3 (task: start with weil)",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "Avoided the inverted structure and reversed cause/effect. Retyped correctly; correct unprompted on card 13."
+    },
+    "rule_dativ_adjective_en": {
+      "category": "grammar",
+      "subcategory": "adjective_endings",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "mit einem neue Auto",
+          "correct": "mit einem neuen Auto",
+          "context": "Review card 5",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "in einer kleinen ✅, eine kleine ✅."
+    },
+    "rule_es_gaebe": {
+      "category": "grammar",
+      "subcategory": "konjunktiv_ii",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not know)",
+          "correct": "Wenn es keine Handys gäbe",
+          "context": "Review card 8c",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "hätte/wäre correct; ae-typing order swapped (heatte/weare)."
+    },
+    "vocab_entscheidung_spelling": {
+      "category": "spelling",
+      "subcategory": "academic_vocabulary",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "eine Entsauchen treffen",
+          "correct": "eine Entscheidung treffen",
+          "context": "Review card 10",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "treffen recalled correctly."
+    },
+    "rule_genitiv_plural": {
+      "category": "grammar",
+      "subcategory": "nominalisierung",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.7,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Wegen ich vieler Prüfunger",
+          "correct": "Wegen der vielen Prüfungen",
+          "context": "Review card 11",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "Kept subject; wrong plural article/ending. Retyped correctly."
     }
   }
 }
