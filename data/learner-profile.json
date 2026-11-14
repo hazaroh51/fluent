@@ -17,14 +17,14 @@
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-14",
   "current_streak_days": 1,
-  "total_sessions": 11,
-  "total_study_minutes": 290,
+  "total_sessions": 12,
+  "total_study_minutes": 310,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 51,
+      "confidence": 66,
       "last_practiced": "2026-11-14",
-      "total_practice_time": 107
+      "total_practice_time": 127
     },
     "speaking": {
       "current_level": 1,

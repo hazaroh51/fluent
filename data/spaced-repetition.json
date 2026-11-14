@@ -2,7 +2,7 @@
   "metadata": {
     "algorithm": "SM-2",
     "last_updated": "2026-11-14",
-    "total_items_tracked": 106,
+    "total_items_tracked": 111,
     "language": "German"
   },
   "review_queue": {
@@ -20,7 +20,6 @@
       "finden_structure_mix",
       "noun_capitalization_articles",
       "vocab_bestehen_pruefung",
-      "vocab_folge",
       "vocab_vorteil_nachteil",
       "vocab_herausforderung",
       "vocab_die_miete",
@@ -39,9 +38,7 @@
       "reading_justify_answer",
       "vocab_erhalten",
       "vocab_ausbildung_bildung",
-      "dass_clause_incomplete",
       "ausbildung_vs_studium",
-      "writing_length",
       "vocab_der_stau",
       "vocab_die_mensa",
       "rule_ung_feminine",
@@ -67,6 +64,7 @@
       "vocab_der_grund",
       "vocab_durchfallen",
       "vocab_ruf",
+      "writing_length",
       "vocab_sich_informieren",
       "rule_es_gaebe",
       "vocab_um_zu",
@@ -89,7 +87,12 @@
       "rule_passiv_plural_werden",
       "vocab_klimawandel",
       "weil_logic_reversed",
-      "vocab_entscheidung_spelling"
+      "vocab_entscheidung_spelling",
+      "vocab_ablenkung",
+      "vocab_nuetzlich",
+      "modal_plus_infinitive",
+      "double_finite_verb",
+      "writing_structure_order"
     ],
     "this_week": [
       "nvv_entscheidung_treffen",
@@ -106,19 +109,22 @@
       "vocab_zulassung",
       "vocab_sich_einschreiben",
       "vocab_ursache",
+      "vocab_folge",
       "vocab_zunehmen_abnehmen",
       "vocab_voraussetzung_spelling",
       "vocab_ursache_folge",
       "nennen_vs_nehmen",
       "subject_verb_agreement",
       "vocab_erst_wenn",
-      "vocab_meiner_meinung_nach",
       "vocab_es_schwierig_finden_zu",
+      "dass_clause_incomplete",
       "vocab_beeinflussen",
       "adjective_declension",
       "missing_subject"
     ],
-    "later": []
+    "later": [
+      "vocab_meiner_meinung_nach"
+    ]
   },
   "items": {
     "nvv_entscheidung_treffen": {
@@ -1004,16 +1010,16 @@
       "category": "cause_effect",
       "difficulty": "B2",
       "created_date": "2026-11-09",
-      "due_date": "2026-11-13",
-      "interval_days": 1,
-      "repetitions": 1,
-      "easiness_factor": 1.52,
-      "consecutive_correct": 1,
+      "due_date": "2026-11-20",
+      "interval_days": 6,
+      "repetitions": 2,
+      "easiness_factor": 1.62,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-12",
+      "last_reviewed": "2026-11-14",
       "last_quality": 5,
-      "mastery_level": 0,
-      "total_reviews": 3,
+      "mastery_level": 1,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -1028,6 +1034,11 @@
         },
         {
           "date": "2026-11-12",
+          "quality": 5,
+          "score": 0
+        },
+        {
+          "date": "2026-11-14",
           "quality": 5,
           "score": 0
         }
@@ -1691,16 +1702,16 @@
       "category": "opinion_phrases",
       "difficulty": "B1",
       "created_date": "2026-11-10",
-      "due_date": "2026-11-18",
-      "interval_days": 6,
-      "repetitions": 2,
+      "due_date": "2026-12-01",
+      "interval_days": 17,
+      "repetitions": 3,
       "easiness_factor": 2.7,
-      "consecutive_correct": 2,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-12",
-      "last_quality": 5,
-      "mastery_level": 1,
-      "total_reviews": 2,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 4,
+      "mastery_level": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1711,6 +1722,11 @@
         {
           "date": "2026-11-12",
           "quality": 5,
+          "score": 0
+        },
+        {
+          "date": "2026-11-14",
+          "quality": 4,
           "score": 0
         }
       ]
@@ -1795,21 +1811,26 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-10",
-      "due_date": "2026-11-12",
-      "interval_days": 1,
-      "repetitions": 1,
+      "due_date": "2026-11-20",
+      "interval_days": 6,
+      "repetitions": 2,
       "easiness_factor": 2.36,
-      "consecutive_correct": 1,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-11",
-      "last_quality": 3,
-      "mastery_level": 0,
-      "total_reviews": 1,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 4,
+      "mastery_level": 1,
+      "total_reviews": 2,
       "priority": "high",
       "review_history": [
         {
           "date": "2026-11-11",
           "quality": 3,
+          "score": 0
+        },
+        {
+          "date": "2026-11-14",
+          "quality": 4,
           "score": 0
         }
       ]
@@ -1842,17 +1863,24 @@
       "category": "writing",
       "difficulty": "",
       "created_date": "2026-11-10",
-      "due_date": "2026-11-11",
+      "due_date": "2026-11-15",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-10",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-14",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_der_stau": {
       "id": "vocab_der_stau",
@@ -2902,6 +2930,106 @@
       "content": "eine Entsauchen treffen",
       "answer": "eine Entscheidung treffen",
       "category": "spelling",
+      "difficulty": "",
+      "created_date": "2026-11-14",
+      "due_date": "2026-11-15",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_ablenkung": {
+      "id": "vocab_ablenkung",
+      "type": "vocabulary",
+      "content": "die Ablenkung / abgelenkt",
+      "answer": "dikkat dağınıklığı / dikkati dağılmış",
+      "category": "media",
+      "difficulty": "B2",
+      "created_date": "2026-11-14",
+      "due_date": "2026-11-15",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_nuetzlich": {
+      "id": "vocab_nuetzlich",
+      "type": "vocabulary",
+      "content": "nützlich",
+      "answer": "faydalı",
+      "category": "academic_adjectives",
+      "difficulty": "B1",
+      "created_date": "2026-11-14",
+      "due_date": "2026-11-15",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "modal_plus_infinitive": {
+      "id": "modal_plus_infinitive",
+      "type": "error_pattern",
+      "content": "dass man sich schnell informiert kann",
+      "answer": "dass man sich schnell informieren kann",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-11-14",
+      "due_date": "2026-11-15",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "double_finite_verb": {
+      "id": "double_finite_verb",
+      "type": "error_pattern",
+      "content": "Meiner Meinung nach sind Soziale Medien ist nützlich / andere Vorteile ist kann man",
+      "answer": "Meiner Meinung nach sind soziale Medien nützlich / Ein anderer Vorteil ist, dass man …",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-11-14",
+      "due_date": "2026-11-15",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-14",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "writing_structure_order": {
+      "id": "writing_structure_order",
+      "type": "error_pattern",
+      "content": "advantage → disadvantage → advantage (repeated idea) → opinion",
+      "answer": "advantages → disadvantages (+Ursache, Folge) → opinion + advice",
+      "category": "writing",
       "difficulty": "",
       "created_date": "2026-11-14",
       "due_date": "2026-11-15",

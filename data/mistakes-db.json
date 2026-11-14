@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-14",
-    "total_patterns_tracked": 49,
+    "total_patterns_tracked": 52,
     "language": "German"
   },
   "error_patterns": {
@@ -39,14 +39,14 @@
       "subcategory": "punctuation",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "Deutsch obwohl ich wenig Zeit habe",
@@ -65,6 +65,12 @@
           "correct": "machen, weil",
           "context": "Speaking Q1",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Ein Grosser Vorteil ist dass",
+          "correct": "Ein großer Vorteil ist, dass",
+          "context": "Writing 2",
+          "date": "2026-11-14"
         }
       ],
       "notes": "After Q1 used comma correctly 3 times in a row (weil, wenn, dass)."
@@ -705,20 +711,26 @@
       "subcategory": "task_requirements",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-10",
-      "last_occurred": "2026-11-10",
-      "next_review": "2026-11-11",
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "~50 words",
           "correct": "80–120 words",
           "context": "Writing",
           "date": "2026-11-10"
+        },
+        {
+          "incorrect": "~70 words",
+          "correct": "80–120 words",
+          "context": "Writing 2 (up from ~50)",
+          "date": "2026-11-14"
         }
       ],
       "notes": ""
@@ -1275,6 +1287,75 @@
         }
       ],
       "notes": "Kept subject; wrong plural article/ending. Retyped correctly."
+    },
+    "modal_plus_infinitive": {
+      "category": "grammar",
+      "subcategory": "modal_verbs",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "dass man sich schnell informiert kann",
+          "correct": "dass man sich schnell informieren kann",
+          "context": "Writing 2: Soziale Medien im Studium",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "double_finite_verb": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Meiner Meinung nach sind Soziale Medien ist nützlich / andere Vorteile ist kann man",
+          "correct": "Meiner Meinung nach sind soziale Medien nützlich / Ein anderer Vorteil ist, dass man …",
+          "context": "Writing 2",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": "Two finite verbs in one clause."
+    },
+    "writing_structure_order": {
+      "category": "writing",
+      "subcategory": "organization",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-14",
+      "last_occurred": "2026-11-14",
+      "next_review": "2026-11-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "advantage → disadvantage → advantage (repeated idea) → opinion",
+          "correct": "advantages → disadvantages (+Ursache, Folge) → opinion + advice",
+          "context": "Writing 2",
+          "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
     }
   }
 }

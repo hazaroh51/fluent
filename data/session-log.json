@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 11
+    "total_sessions": 12
   },
   "sessions": [
     {
@@ -458,6 +458,44 @@
       "notes": "Back after a missed day (11-13) — streak reset to 1. 85 due, did 20 (covered ~31 items). 17/20 ≥7, avg ≈ 7.9. Strong retention after the gap.",
       "achievements_earned": [
         "comeback_after_break"
+      ],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-012",
+      "date": "2026-11-14",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "writing"
+      ],
+      "command_used": "/fluent-writing",
+      "exercises_completed": 1,
+      "accuracy": 1.0,
+      "score_breakdown": {
+        "writing": 1.0
+      },
+      "topics_covered": [
+        "textproduktion",
+        "argumentation",
+        "soziale_medien"
+      ],
+      "breakthroughs": [
+        "All three dass-clauses complete with verb at end",
+        "Plural subject-verb agreement in dass-clause (soziale Medien … beeinflussen)",
+        "Die Folge ist, dass … used correctly",
+        "Meiner Meinung nach + V2",
+        "Rhetorical question intro",
+        "Length up from ~50 to ~70 words"
+      ],
+      "focus_next_session": [
+        "Modal + Infinitiv (kann … informieren)",
+        "One finite verb per clause",
+        "Structure: all pros, then cons",
+        "Add Ursache + advice to reach 80+ words"
+      ],
+      "notes": "Writing 2 with sentence-skeleton scaffold (learner asked for a template). Score 7/10 (prev 6/10). Declined rewrite.",
+      "achievements_earned": [
+        "writing_improvement"
       ],
       "streak_day": 1
     }
