@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-16",
     "total_patterns_tracked": 58,
     "language": "German"
   },
@@ -1098,20 +1098,26 @@
       "subcategory": "university_admission",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.6,
-      "last_seen": "2026-11-12",
-      "last_occurred": "2026-11-12",
-      "next_review": "2026-11-13",
+      "last_seen": "2026-11-16",
+      "last_occurred": "2026-11-16",
+      "next_review": "2026-11-17",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "(did not recall, even with hint)",
           "correct": "durchfallen (ist durchgefallen)",
           "context": "Review card 18",
           "date": "2026-11-12"
+        },
+        {
+          "incorrect": "bin durgefallen (subject: mein Freund)",
+          "correct": "ist durchgefallen",
+          "context": "Review 11-16 card 2 (confused with bestanden first)",
+          "date": "2026-11-16"
         }
       ],
       "notes": ""
@@ -1449,23 +1455,29 @@
       "subcategory": "adverbs",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-14",
-      "last_occurred": "2026-11-14",
-      "next_review": "2026-11-15",
+      "last_seen": "2026-11-16",
+      "last_occurred": "2026-11-16",
+      "next_review": "2026-11-17",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "stopplos (creative coinage)",
           "correct": "ständig (also: pausenlos, nonstop)",
           "context": "Review card 13",
           "date": "2026-11-14"
+        },
+        {
+          "incorrect": "(did not know) → retyped 'steandig'",
+          "correct": "ständig / staendig",
+          "context": "Review 11-16 card 3",
+          "date": "2026-11-16"
         }
       ],
-      "notes": ""
+      "notes": "ae order: writes 'ea' instead of 'ae' (heatte, weare, steandig)."
     },
     "vocab_hindernis_vs_problem": {
       "category": "vocabulary",

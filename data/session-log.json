@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 13
+    "total_sessions": 14
   },
   "sessions": [
     {
@@ -539,6 +539,30 @@
         "Comma after Wer-clause"
       ],
       "notes": "Second review of the day (cards 21–40 of backlog). 15/20 ≥7, avg ≈ 7.6. Learner asks for meanings/retypes — good engagement. Creative word-building (stopplos).",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-014",
+      "date": "2026-11-16",
+      "duration_minutes": 8,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 3,
+      "accuracy": 0.333,
+      "score_breakdown": {
+        "vocabulary": 0.333
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "der Ruf recalled WITHOUT hint after 4 days (learner had said 'I will forget it')"
+      ],
+      "focus_next_session": [
+        "Learner request: vocabulary-focused reviews, especially verbs"
+      ],
+      "notes": "Short session on 11-16, interrupted after card 3; learner then asked for vocabulary/verb-focused cards. Saved retroactively on 11-21.",
       "achievements_earned": [],
       "streak_day": 1
     }
