@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-21",
-    "total_patterns_tracked": 66,
+    "total_patterns_tracked": 72,
     "language": "German"
   },
   "error_patterns": {
@@ -1710,6 +1710,144 @@
           "incorrect": "Üniversieatet",
           "correct": "Universität",
           "context": "Verb card 20",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_untersuchen": {
+      "category": "vocabulary",
+      "subcategory": "academic_verbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(translated sentence, rendered verb as 'söylüyor')",
+          "correct": "untersuchen = incelemek, araştırmak",
+          "context": "Vocab: academic verbs #1",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_beweisen": {
+      "category": "vocabulary",
+      "subcategory": "academic_verbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(needed MC) / production: bewerben",
+          "correct": "beweisen = kanıtlamak",
+          "context": "Vocab #4 + #10",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": "Confuses beweisen with bewerben."
+    },
+    "vocab_sinken": {
+      "category": "vocabulary",
+      "subcategory": "graph_verbs",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(did not understand — blocked by 'Raucher')",
+          "correct": "sinken = düşmek (ist gesunken)",
+          "context": "Vocab #6",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_zusammenfassen": {
+      "category": "vocabulary",
+      "subcategory": "academic_verbs",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "belirtiyor",
+          "correct": "zusammenfassen = özetlemek",
+          "context": "Vocab #8 (production later correct)",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_erklaeren": {
+      "category": "vocabulary",
+      "subcategory": "academic_verbs",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Perfekt: verstanden",
+          "correct": "hat erklärt",
+          "context": "Vocab #9",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_word_meaning_line": {
+      "category": "vocabulary",
+      "subcategory": "exam_strategy",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "translates whole sentence, skips target word",
+          "correct": "write 'Wort = …' first",
+          "context": "Vocab #1, #3",
           "date": "2026-11-21"
         }
       ],

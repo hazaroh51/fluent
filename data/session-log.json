@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 15
+    "total_sessions": 16
   },
   "sessions": [
     {
@@ -608,6 +608,40 @@
       "achievements_earned": [
         "verb_master_start"
       ],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-016",
+      "date": "2026-11-21",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 10,
+      "accuracy": 0.5,
+      "score_breakdown": {
+        "vocabulary": 0.5
+      },
+      "topics_covered": [
+        "academic_verbs",
+        "graph_verbs",
+        "perfekt_forms"
+      ],
+      "breakthroughs": [
+        "feststellen, behaupten, darstellen understood from context",
+        "vergleichen and zusammenfassen produced correctly at end",
+        "Used 'verstanden' (correct Perfekt of verstehen) spontaneously"
+      ],
+      "focus_next_session": [
+        "beweisen vs bewerben",
+        "untersuchen",
+        "sinken (ist gesunken)",
+        "zusammenfassen = özetlemek",
+        "Write 'Wort = …' line first"
+      ],
+      "notes": "New verb set per learner's verb-focus request: 10 DSH academic + graph verbs. Learner needs hints for less transparent verbs; parts-based hints (unter+suchen, be+weisen) help.",
+      "achievements_earned": [],
       "streak_day": 1
     }
   ],
