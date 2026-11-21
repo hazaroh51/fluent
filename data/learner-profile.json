@@ -15,16 +15,16 @@
     "study_plan": "Sprachschule in Duisburg → DSH → BWL-Studium in Deutschland; wants to work in Germany afterwards"
   },
   "profile_created": "2026-11-09",
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-21",
   "current_streak_days": 1,
-  "total_sessions": 14,
-  "total_study_minutes": 348,
+  "total_sessions": 15,
+  "total_study_minutes": 383,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 70,
-      "last_practiced": "2026-11-14",
-      "total_practice_time": 140
+      "confidence": 69,
+      "last_practiced": "2026-11-21",
+      "total_practice_time": 145
     },
     "speaking": {
       "current_level": 1,
@@ -34,9 +34,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 58,
-      "last_practiced": "2026-11-16",
-      "total_practice_time": 108
+      "confidence": 62,
+      "last_practiced": "2026-11-21",
+      "total_practice_time": 138
     },
     "reading": {
       "current_level": 1,
@@ -123,6 +123,12 @@
       "name": "Came back after a missed day",
       "earned_date": "2026-11-14",
       "description": "Came back after a missed day"
+    },
+    {
+      "id": "session_session-015_0_first_verb_focused_review_sess",
+      "name": "First verb-focused review session",
+      "earned_date": "2026-11-21",
+      "description": "First verb-focused review session"
     }
   ],
   "preferences": {

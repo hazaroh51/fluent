@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16",
-    "total_patterns_tracked": 58,
+    "last_updated": "2026-11-21",
+    "total_patterns_tracked": 66,
     "language": "German"
   },
   "error_patterns": {
@@ -451,20 +451,26 @@
       "subcategory": "verb_confusion",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-11-09",
-      "last_occurred": "2026-11-09",
-      "next_review": "2026-11-10",
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "nimmt = adlandırmak?",
           "correct": "nimmt ← nehmen (almak); nennt ← nennen (adlandırmak)",
           "context": "zunehmen word",
           "date": "2026-11-09"
+        },
+        {
+          "incorrect": "Er nimmt drei Gründe",
+          "correct": "Er nennt drei Gründe",
+          "context": "Verb card 14",
+          "date": "2026-11-21"
         }
       ],
       "notes": "Also needs separable verb awareness (nimmt ... zu)."
@@ -1521,6 +1527,190 @@
           "correct": "sich austauschen",
           "context": "Review card 18",
           "date": "2026-11-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_zeit_verbringen": {
+      "category": "vocabulary",
+      "subcategory": "verbs_prefix",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "bringe (with hint)",
+          "correct": "verbringe",
+          "context": "Verb card 1",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "partizip_irregular_en": {
+      "category": "grammar",
+      "subcategory": "perfekt",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "erhalt / abgeschloss",
+          "correct": "erhalten / abgeschlossen",
+          "context": "Verb cards 5 + 17",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": "Irregular verbs → Partizip -en."
+    },
+    "missing_finite_verb": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Das Handy grossen Einfluss auf meine Konzentration.",
+          "correct": "Das Handy hat großen Einfluss auf meine Konzentration.",
+          "context": "Verb card 6",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "verb_conjugation_endings": {
+      "category": "grammar",
+      "subcategory": "verb_conjugation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "er nennet / du befolgest",
+          "correct": "er nennt / du befolgst",
+          "context": "Verb cards 7 + 14",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": "-et/-est only after stem in -t/-d."
+    },
+    "perfekt_ge_missing": {
+      "category": "grammar",
+      "subcategory": "perfekt",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "stellt (for Perfekt)",
+          "correct": "gestellt",
+          "context": "Verb card 9",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_abschliessen": {
+      "category": "vocabulary",
+      "subcategory": "word_formation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "abschlussen",
+          "correct": "abschließen (Abschluss = noun)",
+          "context": "Verb card 17",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "inversion_wrong_after_comma": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "…informiert, habe ich mich beworben",
+          "correct": "…informiert, ich habe mich beworben / …informiert, beworben und eingeschrieben",
+          "context": "Verb card 20",
+          "date": "2026-11-21"
+        }
+      ],
+      "notes": ""
+    },
+    "universitaet_spelling": {
+      "category": "spelling",
+      "subcategory": "similar_words",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-21",
+      "last_occurred": "2026-11-21",
+      "next_review": "2026-11-22",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Üniversieatet",
+          "correct": "Universität",
+          "context": "Verb card 20",
+          "date": "2026-11-21"
         }
       ],
       "notes": ""

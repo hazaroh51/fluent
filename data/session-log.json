@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 14
+    "total_sessions": 15
   },
   "sessions": [
     {
@@ -565,6 +565,50 @@
       "notes": "Short session on 11-16, interrupted after card 3; learner then asked for vocabulary/verb-focused cards. Saved retroactively on 11-21.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-015",
+      "date": "2026-11-21",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "vocabulary",
+        "writing"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "vocabulary": 0.706,
+        "writing": 0.667
+      },
+      "topics_covered": [
+        "verb_focused_review",
+        "perfekt_partizip_ii",
+        "separable_verbs",
+        "reflexive_verbs",
+        "verb_prepositions",
+        "verb_conjugation"
+      ],
+      "breakthroughs": [
+        "Learner-requested verb-focused review",
+        "sich bewerben → beworben (no ge-) applied immediately after rule",
+        "durchfallen: er ist durchgefallen — perfect after 3 sessions of struggle",
+        "sich austauschen: wir tauschen uns aus — reflexive + separable perfect",
+        "Final sentence: three different Perfekt rules (informiert, beworben, eingeschrieben) all correct"
+      ],
+      "focus_next_session": [
+        "Keep verb-heavy cards (preference)",
+        "Partizip -t vs -en",
+        "ge- rules",
+        "nennen vs nehmen (again)",
+        "verbringen (ver- prefix)",
+        "abschließen / abgeschlossen"
+      ],
+      "notes": "First verb-focused review per learner's request. 5-day gap (last 11-16). 14/20 ≥7, avg ≈ 8.0. Learner asked for explanation on Einfluss haben auf — explained, then practiced.",
+      "achievements_earned": [
+        "verb_master_start"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -617,6 +661,11 @@
       "date": "2026-11-14",
       "milestone": "Came back after a missed day",
       "session_id": "session-011"
+    },
+    {
+      "date": "2026-11-21",
+      "milestone": "First verb-focused review session",
+      "session_id": "session-015"
     }
   ]
 }
