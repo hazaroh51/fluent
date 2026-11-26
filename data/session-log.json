@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 18
+    "total_sessions": 19
   },
   "sessions": [
     {
@@ -719,6 +719,54 @@
       "achievements_earned": [
         "first_grafikbeschreibung",
         "writing_length_target_met"
+      ],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-019",
+      "date": "2026-11-26",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "vocabulary",
+        "writing"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "vocabulary": 0.733,
+        "writing": 0.6
+      },
+      "topics_covered": [
+        "verb_focused_review",
+        "perfekt",
+        "separable_vs_inseparable",
+        "graph_verbs",
+        "word_order_comma_rules"
+      ],
+      "breakthroughs": [
+        "durchfallen/bestehen Perfekt both perfect",
+        "verbringen/verbracht perfect",
+        "nennen vs nehmen distinguished",
+        "Einfluss haben auf with finite verb",
+        "untersuchen + Perfekt perfect",
+        "es gäbe recalled",
+        "Wegen der hohen Mieten — Genitiv plural with adjective",
+        "Viele Kurse werden angeboten — Passiv plural fixed",
+        "eine Frage (singular) finally correct",
+        "ae typing order correct several times"
+      ],
+      "focus_next_session": [
+        "gestiegen / gesunken (still unstable!)",
+        "abschließen / abgeschlossen",
+        "erhalten (no ge)",
+        "gestellt (ge-)",
+        "Two comma rules (leading Nebensatz vs. main clauses)",
+        "Perfekt consistency in a sentence"
+      ],
+      "notes": "Second session of the day (3rd including writing). 14/20 ≥7, avg ≈ 7.7. Verb-heavy as requested. Many long-standing errors fixed. Persistent: Ablaut Partizipien and comma/inversion rules.",
+      "achievements_earned": [
+        "passiv_plural_fixed"
       ],
       "streak_day": 1
     }

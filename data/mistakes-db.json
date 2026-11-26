@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-26",
-    "total_patterns_tracked": 76,
+    "total_patterns_tracked": 78,
     "language": "German"
   },
   "error_patterns": {
@@ -503,21 +503,15 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-26",
       "last_occurred": "2026-11-26",
       "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "ich ... denken",
-          "correct": "ich ... finde",
-          "context": "Writing",
-          "date": "2026-11-10"
-        },
         {
           "incorrect": "dass die Mieten sehr hoch ist",
           "correct": "dass die Mieten sehr hoch sind",
@@ -540,6 +534,12 @@
           "incorrect": "Die Zahl der internationalen Studierenden sind … gesteigt",
           "correct": "Die Zahl der internationalen Studierenden ist … gestiegen",
           "context": "Grafikbeschreibung #1",
+          "date": "2026-11-26"
+        },
+        {
+          "incorrect": "Die Preise ist gestiegen",
+          "correct": "Die Preise sind gestiegen",
+          "context": "Review card 11b",
           "date": "2026-11-26"
         }
       ],
@@ -775,14 +775,14 @@
       "subcategory": "separable_verbs",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-14",
-      "last_occurred": "2026-11-14",
-      "next_review": "2026-11-15",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "sondern auch neue Leute kennenlernen",
@@ -795,6 +795,12 @@
           "correct": "sondern man findet auch neue Freunde",
           "context": "Review card 3 — leaves 2nd verb as infinitive after sondern",
           "date": "2026-11-14"
+        },
+        {
+          "incorrect": "lerne … kennenlernen",
+          "correct": "lerne … kennen",
+          "context": "Review card 13 (Perfekt kennengelernt correct)",
+          "date": "2026-11-26"
         }
       ],
       "notes": ""
@@ -1058,20 +1064,26 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-12",
-      "last_occurred": "2026-11-12",
-      "next_review": "2026-11-13",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "Obwohl ich müde bin, Ich lerne weiter Deutsch",
           "correct": "Obwohl ich müde bin, lerne ich weiter Deutsch",
           "context": "Review card 15",
           "date": "2026-11-12"
+        },
+        {
+          "incorrect": "Erst wenn man Deutsch kann, Man kann …",
+          "correct": "Erst wenn man Deutsch kann, kann man …",
+          "context": "Review card 16",
+          "date": "2026-11-26"
         }
       ],
       "notes": "Correct in card 20 (…, kann ich)."
@@ -1559,14 +1571,14 @@
       "subcategory": "perfekt",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-26",
       "last_occurred": "2026-11-26",
       "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "erhalt / abgeschloss",
@@ -1585,9 +1597,15 @@
           "correct": "gestiegen / gesunken",
           "context": "Grafikbeschreibung #1 (same error as earlier today)",
           "date": "2026-11-26"
+        },
+        {
+          "incorrect": "ergehalt / gesungen (for gesunken) / gesteigt",
+          "correct": "erhalten / gesunken / gestiegen",
+          "context": "Review cards 5 + 11",
+          "date": "2026-11-26"
         }
       ],
-      "notes": "Irregular verbs → Partizip -en."
+      "notes": "Treats er- as separable (inserts ge). steigen/sinken Partizip still not stable (3rd time today)."
     },
     "missing_finite_verb": {
       "category": "grammar",
@@ -1640,20 +1658,26 @@
       "subcategory": "perfekt",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-21",
-      "last_occurred": "2026-11-21",
-      "next_review": "2026-11-22",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "stellt (for Perfekt)",
           "correct": "gestellt",
           "context": "Verb card 9",
           "date": "2026-11-21"
+        },
+        {
+          "incorrect": "eine Frage stellt",
+          "correct": "eine Frage gestellt",
+          "context": "Review card 15 (2nd time)",
+          "date": "2026-11-26"
         }
       ],
       "notes": ""
@@ -1663,20 +1687,26 @@
       "subcategory": "word_formation",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-21",
-      "last_occurred": "2026-11-21",
-      "next_review": "2026-11-22",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "abschlussen",
           "correct": "abschließen (Abschluss = noun)",
           "context": "Verb card 17",
           "date": "2026-11-21"
+        },
+        {
+          "incorrect": "abschlussen / abgeschluss (2nd time)",
+          "correct": "abschließen / abgeschlossen (verb ie, Perfekt o, noun u)",
+          "context": "Review card 4 — taught via schließen = kapatmak",
+          "date": "2026-11-26"
         }
       ],
       "notes": ""
@@ -1686,23 +1716,29 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.4,
-      "last_seen": "2026-11-21",
-      "last_occurred": "2026-11-21",
-      "next_review": "2026-11-22",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "…informiert, habe ich mich beworben",
           "correct": "…informiert, ich habe mich beworben / …informiert, beworben und eingeschrieben",
           "context": "Verb card 20",
           "date": "2026-11-21"
+        },
+        {
+          "incorrect": "…, Habe ich viele Leute kennengelernt und habe ich …",
+          "correct": "…, ich habe … und ich habe … / … gelernt, kennengelernt und bestanden",
+          "context": "Review card 20",
+          "date": "2026-11-26"
         }
       ],
-      "notes": ""
+      "notes": "Mixes up the two rules: inversion after leading Nebensatz vs. normal order after comma/und."
     },
     "universitaet_spelling": {
       "category": "spelling",
@@ -1958,6 +1994,52 @@
           "incorrect": "dass es immer mehr Studierende, aber die Pleatze in den Wohnheimen weden knapp gibt",
           "correct": "dass es immer mehr Studierende gibt, aber die Plätze in den Wohnheimen knapp werden",
           "context": "Grafikbeschreibung #1 conclusion",
+          "date": "2026-11-26"
+        }
+      ],
+      "notes": ""
+    },
+    "st_sp_spelling": {
+      "category": "spelling",
+      "subcategory": "orthography",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.2,
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "schtaendig",
+          "correct": "ständig (st- = 'şt' sound, written st)",
+          "context": "Review card 1",
+          "date": "2026-11-26"
+        }
+      ],
+      "notes": ""
+    },
+    "tense_mismatch_perfekt": {
+      "category": "grammar",
+      "subcategory": "perfekt",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Letztes Jahr lerne ich Deutsch",
+          "correct": "Letztes Jahr habe ich Deutsch gelernt",
+          "context": "Review card 20",
           "date": "2026-11-26"
         }
       ],
