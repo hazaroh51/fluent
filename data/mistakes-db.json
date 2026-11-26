@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-11-26",
-    "total_patterns_tracked": 75,
+    "total_patterns_tracked": 76,
     "language": "German"
   },
   "error_patterns": {
@@ -503,21 +503,15 @@
       "subcategory": "verb_conjugation",
       "description": "",
       "severity": "critical",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-14",
-      "last_occurred": "2026-11-14",
-      "next_review": "2026-11-15",
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "Die Zahl der Studierenden nehmen jedes Jahr zu / Ich nehmen den Bus",
-          "correct": "Die Zahl ... nimmt zu / Ich nehme den Bus",
-          "context": "Review cards 14 + 18",
-          "date": "2026-11-10"
-        },
         {
           "incorrect": "ich ... denken",
           "correct": "ich ... finde",
@@ -541,9 +535,15 @@
           "correct": "Die Prüfungen werden korrigiert / weil sie schnell sind",
           "context": "Review cards 18 + 19",
           "date": "2026-11-14"
+        },
+        {
+          "incorrect": "Die Zahl der internationalen Studierenden sind … gesteigt",
+          "correct": "Die Zahl der internationalen Studierenden ist … gestiegen",
+          "context": "Grafikbeschreibung #1",
+          "date": "2026-11-26"
         }
       ],
-      "notes": "Passiv plural 'wird' — 2nd time. Taught '-en → werd-en'. Correct in card 20 (Benachrichtigungen … beeinflussen)."
+      "notes": "'die Zahl der …' singular trap again (correct with 'der Anteil … ist')."
     },
     "es_gibt_akkusativ": {
       "category": "grammar",
@@ -1559,14 +1559,14 @@
       "subcategory": "perfekt",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-11-26",
       "last_occurred": "2026-11-26",
       "next_review": "2026-11-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "erhalt / abgeschloss",
@@ -1578,6 +1578,12 @@
           "incorrect": "sind gesteigt / ist gesinkt",
           "correct": "sind gestiegen / ist gesunken",
           "context": "Verb review card 2 (auxiliaries sind/ist correct!)",
+          "date": "2026-11-26"
+        },
+        {
+          "incorrect": "gesteigt / gesinkt",
+          "correct": "gestiegen / gesunken",
+          "context": "Grafikbeschreibung #1 (same error as earlier today)",
           "date": "2026-11-26"
         }
       ],
@@ -1910,9 +1916,38 @@
       "subcategory": "keyboard",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.1,
+      "last_seen": "2026-11-26",
+      "last_occurred": "2026-11-26",
+      "next_review": "2026-11-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "erkleart",
+          "correct": "erklaert / erklärt",
+          "context": "Verb review card 9",
+          "date": "2026-11-26"
+        },
+        {
+          "incorrect": "Wohnheimpleatze / Pleatze / migliche / genung",
+          "correct": "Wohnheimplätze / Plätze / mögliche / genug",
+          "context": "Grafikbeschreibung #1",
+          "date": "2026-11-26"
+        }
+      ],
+      "notes": ""
+    },
+    "two_clauses_one_verb": {
+      "category": "grammar",
+      "subcategory": "sentence_structure",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
       "last_seen": "2026-11-26",
       "last_occurred": "2026-11-26",
       "next_review": "2026-11-27",
@@ -1920,9 +1955,9 @@
       "consecutive_incorrect": 1,
       "examples": [
         {
-          "incorrect": "erkleart",
-          "correct": "erklaert / erklärt",
-          "context": "Verb review card 9",
+          "incorrect": "dass es immer mehr Studierende, aber die Pleatze in den Wohnheimen weden knapp gibt",
+          "correct": "dass es immer mehr Studierende gibt, aber die Plätze in den Wohnheimen knapp werden",
+          "context": "Grafikbeschreibung #1 conclusion",
           "date": "2026-11-26"
         }
       ],

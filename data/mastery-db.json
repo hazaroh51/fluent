@@ -5,12 +5,12 @@
   },
   "skills": {
     "writing": {
-      "mastery_level": 2,
-      "confidence_score": 0.635,
-      "total_practice_time": 152,
+      "mastery_level": 3,
+      "confidence_score": 0.668,
+      "total_practice_time": 172,
       "last_practiced": "2026-11-26",
-      "practice_count": 65,
-      "avg_accuracy": 0.635
+      "practice_count": 66,
+      "avg_accuracy": 0.668
     },
     "speaking": {
       "mastery_level": 1,

@@ -2,7 +2,7 @@
   "metadata": {
     "algorithm": "SM-2",
     "last_updated": "2026-11-26",
-    "total_items_tracked": 156,
+    "total_items_tracked": 161,
     "language": "German"
   },
   "review_queue": {
@@ -42,7 +42,6 @@
       "vocab_den_bus_nehmen",
       "vocab_puenktlichkeit",
       "subject_verb_agreement",
-      "es_gibt_akkusativ",
       "komparativ_umlaut",
       "regel_vs_regal",
       "vocab_ruf",
@@ -60,7 +59,6 @@
       "vocab_ausbildung_bildung",
       "dass_clause_incomplete",
       "ausbildung_vs_studium",
-      "writing_length",
       "vocab_der_stau",
       "vocab_die_mensa",
       "vocab_beeinflussen",
@@ -103,7 +101,6 @@
       "vocab_nuetzlich",
       "modal_plus_infinitive",
       "double_finite_verb",
-      "writing_structure_order",
       "vocab_gab_es",
       "vocab_der_rueckgang",
       "rule_stehen_standen",
@@ -140,6 +137,7 @@
       "vocab_dauern_bis",
       "vocab_befolgen_merken_unterschied",
       "vocab_sich_austauschen",
+      "writing_structure_order",
       "rule_partizip_t_vs_en",
       "verb_untersuchen",
       "verb_feststellen",
@@ -157,18 +155,25 @@
       "phrase_im_vergleich_zu",
       "phrase_grafik_stellt_dar",
       "infinitive_instead_of_finite",
-      "ae_typing_order"
+      "ae_typing_order",
+      "phrase_im_gegensatz_dazu",
+      "phrase_von_auf",
+      "vocab_wohnheim_anteil",
+      "vocab_knapp_werden",
+      "two_clauses_one_verb"
     ],
     "this_week": [
       "nvv_entscheidung_treffen",
       "nvv_frage_stellen",
-      "vocab_meiner_meinung_nach"
+      "vocab_meiner_meinung_nach",
+      "writing_length"
     ],
     "later": [
       "nvv_wert_legen",
       "vocab_sich_bewerben",
       "vocab_sich_einschreiben",
-      "vocab_zunehmen_abnehmen"
+      "vocab_zunehmen_abnehmen",
+      "es_gibt_akkusativ"
     ]
   },
   "items": {
@@ -1507,16 +1512,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-10",
-      "due_date": "2026-11-20",
-      "interval_days": 6,
-      "repetitions": 2,
-      "easiness_factor": 2.6,
-      "consecutive_correct": 2,
+      "due_date": "2026-12-12",
+      "interval_days": 16,
+      "repetitions": 3,
+      "easiness_factor": 2.7,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-14",
+      "last_reviewed": "2026-11-26",
       "last_quality": 5,
-      "mastery_level": 1,
-      "total_reviews": 2,
+      "mastery_level": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1526,6 +1531,11 @@
         },
         {
           "date": "2026-11-14",
+          "quality": 5,
+          "score": 0
+        },
+        {
+          "date": "2026-11-26",
           "quality": 5,
           "score": 0
         }
@@ -2061,21 +2071,26 @@
       "category": "writing",
       "difficulty": "",
       "created_date": "2026-11-10",
-      "due_date": "2026-11-15",
-      "interval_days": 1,
-      "repetitions": 1,
-      "easiness_factor": 2.36,
-      "consecutive_correct": 1,
+      "due_date": "2026-12-02",
+      "interval_days": 6,
+      "repetitions": 2,
+      "easiness_factor": 2.46,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-11-14",
-      "last_quality": 3,
-      "mastery_level": 0,
-      "total_reviews": 1,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 5,
+      "mastery_level": 1,
+      "total_reviews": 2,
       "priority": "high",
       "review_history": [
         {
           "date": "2026-11-14",
           "quality": 3,
+          "score": 0
+        },
+        {
+          "date": "2026-11-26",
+          "quality": 5,
           "score": 0
         }
       ]
@@ -3360,17 +3375,24 @@
       "category": "writing",
       "difficulty": "",
       "created_date": "2026-11-14",
-      "due_date": "2026-11-15",
+      "due_date": "2026-11-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-11-14",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_gab_es": {
       "id": "vocab_gab_es",
@@ -4266,15 +4288,22 @@
       "created_date": "2026-11-26",
       "due_date": "2026-11-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
       "last_reviewed": "2026-11-26",
-      "last_quality": 3,
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "phrase_im_vergleich_zu": {
       "id": "phrase_im_vergleich_zu",
@@ -4306,15 +4335,22 @@
       "created_date": "2026-11-26",
       "due_date": "2026-11-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
       "last_reviewed": "2026-11-26",
-      "last_quality": 4,
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-11-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "infinitive_instead_of_finite": {
       "id": "infinitive_instead_of_finite",
@@ -4342,6 +4378,106 @@
       "content": "erkleart",
       "answer": "erklaert / erklärt",
       "category": "spelling",
+      "difficulty": "",
+      "created_date": "2026-11-26",
+      "due_date": "2026-11-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "phrase_im_gegensatz_dazu": {
+      "id": "phrase_im_gegensatz_dazu",
+      "type": "vocabulary",
+      "content": "Im Gegensatz dazu …",
+      "answer": "Buna karşılık …",
+      "category": "graph_description",
+      "difficulty": "B2",
+      "created_date": "2026-11-26",
+      "due_date": "2026-11-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 5,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "phrase_von_auf": {
+      "id": "phrase_von_auf",
+      "type": "grammar_rule",
+      "content": "von … auf … steigen/sinken (von 320.000 auf 420.000)",
+      "answer": "…'den …'ya artmak/düşmek",
+      "category": "graph_description",
+      "difficulty": "B1",
+      "created_date": "2026-11-26",
+      "due_date": "2026-11-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 5,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_wohnheim_anteil": {
+      "id": "vocab_wohnheim_anteil",
+      "type": "vocabulary",
+      "content": "das Wohnheim, der Wohnheimplatz / der Anteil",
+      "answer": "öğrenci yurdu, yurt yeri / pay, oran",
+      "category": "graph_description",
+      "difficulty": "B1",
+      "created_date": "2026-11-26",
+      "due_date": "2026-11-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_knapp_werden": {
+      "id": "vocab_knapp_werden",
+      "type": "vocabulary",
+      "content": "knapp werden / knapp sein",
+      "answer": "kıtlaşmak / kıt olmak",
+      "category": "graph_description",
+      "difficulty": "B2",
+      "created_date": "2026-11-26",
+      "due_date": "2026-11-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-11-26",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "two_clauses_one_verb": {
+      "id": "two_clauses_one_verb",
+      "type": "error_pattern",
+      "content": "dass es immer mehr Studierende, aber die Pleatze in den Wohnheimen weden knapp gibt",
+      "answer": "dass es immer mehr Studierende gibt, aber die Plätze in den Wohnheimen knapp werden",
+      "category": "grammar",
       "difficulty": "",
       "created_date": "2026-11-26",
       "due_date": "2026-11-27",

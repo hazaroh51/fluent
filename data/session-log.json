@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 17
+    "total_sessions": 18
   },
   "sessions": [
     {
@@ -682,6 +682,45 @@
         "first_graph_description"
       ],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-018",
+      "date": "2026-11-26",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "writing"
+      ],
+      "command_used": "/fluent-writing",
+      "exercises_completed": 1,
+      "accuracy": 1.0,
+      "score_breakdown": {
+        "writing": 1.0
+      },
+      "topics_covered": [
+        "grafikbeschreibung",
+        "textproduktion",
+        "perfekt",
+        "graph_vocabulary"
+      ],
+      "breakthroughs": [
+        "First full DSH graph description",
+        "First time reaching target length (~75 words)",
+        "Intro sentence with darstellen perfect",
+        "Im Gegensatz dazu + ist … gesunken (aux correct)",
+        "Own cause idea with es gibt in dass-clause"
+      ],
+      "focus_next_session": [
+        "die Zahl … ist (singular!)",
+        "Ablaut Partizip: gestiegen / gesunken",
+        "Each clause needs its own verb",
+        "ae order"
+      ],
+      "notes": "Grafikbeschreibung with fill-in template. Score 7/10 (Structure 9). Writing scores: 6 → 7 → 7; length 50 → 70 → 75. Declined rewrite.",
+      "achievements_earned": [
+        "first_grafikbeschreibung",
+        "writing_length_target_met"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -744,6 +783,16 @@
       "date": "2026-11-26",
       "milestone": "First (mini) DSH graph description",
       "session_id": "session-017"
+    },
+    {
+      "date": "2026-11-26",
+      "milestone": "First full DSH Grafikbeschreibung",
+      "session_id": "session-018"
+    },
+    {
+      "date": "2026-11-26",
+      "milestone": "First writing task meeting the word count",
+      "session_id": "session-018"
     }
   ]
 }

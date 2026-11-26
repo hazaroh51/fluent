@@ -17,14 +17,14 @@
   "profile_created": "2026-11-09",
   "last_updated": "2026-11-26",
   "current_streak_days": 1,
-  "total_sessions": 17,
-  "total_study_minutes": 433,
+  "total_sessions": 18,
+  "total_study_minutes": 453,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 78,
+      "confidence": 85,
       "last_practiced": "2026-11-26",
-      "total_practice_time": 152
+      "total_practice_time": 172
     },
     "speaking": {
       "current_level": 1,
@@ -135,6 +135,18 @@
       "name": "First (mini) DSH graph description",
       "earned_date": "2026-11-26",
       "description": "First (mini) DSH graph description"
+    },
+    {
+      "id": "session_session-018_0_first_full_dsh_grafikbeschreib",
+      "name": "First full DSH Grafikbeschreibung",
+      "earned_date": "2026-11-26",
+      "description": "First full DSH Grafikbeschreibung"
+    },
+    {
+      "id": "session_session-018_1_first_writing_task_meeting_the",
+      "name": "First writing task meeting the word count",
+      "earned_date": "2026-11-26",
+      "description": "First writing task meeting the word count"
     }
   ],
   "preferences": {
