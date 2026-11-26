@@ -15,16 +15,16 @@
     "study_plan": "Sprachschule in Duisburg → DSH → BWL-Studium in Deutschland; wants to work in Germany afterwards"
   },
   "profile_created": "2026-11-09",
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-26",
   "current_streak_days": 1,
-  "total_sessions": 16,
-  "total_study_minutes": 408,
+  "total_sessions": 17,
+  "total_study_minutes": 433,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 69,
-      "last_practiced": "2026-11-21",
-      "total_practice_time": 145
+      "confidence": 78,
+      "last_practiced": "2026-11-26",
+      "total_practice_time": 152
     },
     "speaking": {
       "current_level": 1,
@@ -34,9 +34,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 58,
-      "last_practiced": "2026-11-21",
-      "total_practice_time": 163
+      "confidence": 63,
+      "last_practiced": "2026-11-26",
+      "total_practice_time": 181
     },
     "reading": {
       "current_level": 1,
@@ -129,6 +129,12 @@
       "name": "First verb-focused review session",
       "earned_date": "2026-11-21",
       "description": "First verb-focused review session"
+    },
+    {
+      "id": "session_session-017_0_first_mini_dsh_graph_descrip",
+      "name": "First (mini) DSH graph description",
+      "earned_date": "2026-11-26",
+      "description": "First (mini) DSH graph description"
     }
   ],
   "preferences": {
@@ -145,6 +151,7 @@
     "keyboard": "turkish",
     "keyboard_notes": "No ä/ß on keyboard: accept 'ae' for ä and 'ss' for ß (ö/ü available). Don't count as spelling errors; ask only when meaning changes (hatte/hätte). Watch dotless ı in 'ich'.",
     "review_focus": "vocabulary-heavy, especially VERBS (learner request 2026-11-16). Aim ~70-80% vocabulary/verb cards in reviews (meaning, conjugation, Perfekt/Partizip II, separable/reflexive forms, prepositions), ~20-30% grammar.",
-    "ae_typing_note": "Learner often types 'ea' instead of 'ae' for ä (heatte, weare, steandig) — remind gently: a first, then e."
+    "ae_typing_note": "Learner often types 'ea' instead of 'ae' for ä (heatte, weare, steandig) — remind gently: a first, then e.",
+    "scaffolding_note": "When learner says 'yapamam/yapamadım' on production tasks, split into steps or give a fill-in template — he then usually succeeds. Encourage confidence."
   }
 }

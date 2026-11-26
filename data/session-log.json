@@ -2,7 +2,7 @@
   "metadata": {
     "language": "German",
     "learner_name": "Hazar",
-    "total_sessions": 16
+    "total_sessions": 17
   },
   "sessions": [
     {
@@ -643,6 +643,45 @@
       "notes": "New verb set per learner's verb-focus request: 10 DSH academic + graph verbs. Learner needs hints for less transparent verbs; parts-based hints (unter+suchen, be+weisen) help.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-017",
+      "date": "2026-11-26",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "vocabulary",
+        "writing"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 10,
+      "accuracy": 0.8,
+      "score_breakdown": {
+        "vocabulary": 0.75,
+        "writing": 1.0
+      },
+      "topics_covered": [
+        "verb_review",
+        "academic_verbs",
+        "perfekt_explained",
+        "graph_description_intro"
+      ],
+      "breakthroughs": [
+        "Asked what Perfekt is — explained; realized he had been using Partizip II for days",
+        "Full B2 sentence after saying 'I can't': Die Forscher haben festgestellt, dass die Studierenden weniger schlafen",
+        "Auxiliary agreement sind/ist correct with steigen/sinken",
+        "First mini graph description (stellt … dar / ist gestiegen)"
+      ],
+      "focus_next_session": [
+        "Graph description writing (Grafikbeschreibung) — next activity",
+        "Partizip -en with Ablaut (gestiegen, gesunken)",
+        "Conjugate sein/haben in Perfekt (ist, not sein)",
+        "beweisen production"
+      ],
+      "notes": "5-day gap (last 11-21). Verb-focused review of session-016 verbs. Learner loses confidence on production tasks ('yapamam herhalde', 'yapamadım') but succeeds when the task is split into steps — keep scaffolding with templates.",
+      "achievements_earned": [
+        "first_graph_description"
+      ],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -700,6 +739,11 @@
       "date": "2026-11-21",
       "milestone": "First verb-focused review session",
       "session_id": "session-015"
+    },
+    {
+      "date": "2026-11-26",
+      "milestone": "First (mini) DSH graph description",
+      "session_id": "session-017"
     }
   ]
 }

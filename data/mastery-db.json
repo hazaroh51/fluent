@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-26",
     "language": "German"
   },
   "skills": {
     "writing": {
       "mastery_level": 2,
-      "confidence_score": 0.595,
-      "total_practice_time": 145,
-      "last_practiced": "2026-11-21",
-      "practice_count": 63,
-      "avg_accuracy": 0.595
+      "confidence_score": 0.635,
+      "total_practice_time": 152,
+      "last_practiced": "2026-11-26",
+      "practice_count": 65,
+      "avg_accuracy": 0.635
     },
     "speaking": {
       "mastery_level": 1,
@@ -22,11 +22,11 @@
     },
     "vocabulary": {
       "mastery_level": 2,
-      "confidence_score": 0.577,
-      "total_practice_time": 163,
-      "last_practiced": "2026-11-21",
-      "practice_count": 88,
-      "avg_accuracy": 0.577
+      "confidence_score": 0.593,
+      "total_practice_time": 181,
+      "last_practiced": "2026-11-26",
+      "practice_count": 96,
+      "avg_accuracy": 0.593
     },
     "reading": {
       "mastery_level": 1,
